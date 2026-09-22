@@ -15,3 +15,4 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 | | | |
 |**Total Price**|**£267.62**| |
 |**Price For 3**|**£802.86**| |
+|**Total Leftover**|**£47.14**| |
