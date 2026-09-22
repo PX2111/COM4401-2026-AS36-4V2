@@ -17,7 +17,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 | | | |
 |**Total Price**|**£287.61**| |
 |**Price For 3**|**£862.83**| |
-|**Total Leftover**|**£87.17**| |
+|**Total Leftover**|**£1687.17**| |
 
 ### Component Justifications
 
@@ -60,4 +60,4 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 * **Justification:** I added this basic 120mm fan to ensure steady, reliable airflow throughout the case and prevent any internal heat buildup. It is highly popular among PC builders for its airflow-to-cost ratio and only added a minor £3.99 to the overall budget.
 ---
 ### Conclusion
-In conclusion, this hardware selection outlines a highly cost-effective and reliable system tailored specifically to the demands of administrative and office work. By prioritizing utility over aesthetics—such as opting for a clean, its budget fits within the required £950 budget whist ensuring quality and futureproof components that should make Northwest Architecture Studio Ltd satisfied.
+In conclusion, this hardware selection outlines a VERY highly cost-effective and reliable system tailored specifically to the demands of administrative and office work. By prioritizing utility over aesthetics—such as opting for a clean, its budget fits within the required £950 budget whist ensuring quality and futureproof components that should make Northwest Architecture Studio Ltd satisfied. Im justifying my saving of so much of the cost for all three systems by pointing out that for most administrative work, a cost effective solution is usually more worth it since replacing expensive parts every 7-10 years is extremly costly, and only for a slight boost in performance, basically going cheaper means that futureproofing is actually easier because buying cheap parts is much more cost effective.
