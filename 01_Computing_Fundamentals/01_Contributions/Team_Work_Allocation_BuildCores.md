@@ -31,8 +31,8 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | Pandeli | Haneef | Brian | Henry |
 |------|----------|----------|----------|----------|
-| Administrative Assistant build (BuildCores + peripherals) | | | | |
-| Project Manager build (BuildCores + peripherals) | | | | |
+| Administrative Assistant build (BuildCores + peripherals) |CI |CI |CI |RA |
+| Project Manager build (BuildCores + peripherals) |RA |CI |CI |CI |
 | Architect / CAD Designer build (BuildCores + peripherals) |CI |CI |RA |CI |
 | 3D Visualisation Specialist build (BuildCores + peripherals) | CI| RA| CI| CI|
 | Component justifications (role suitability & value) | | | | |
