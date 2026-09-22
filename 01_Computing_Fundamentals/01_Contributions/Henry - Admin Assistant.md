@@ -58,6 +58,5 @@
 * **Model:** ARCTIC P12 120mm Black
 * **Justification:** I added this basic 120mm fan to ensure steady, reliable airflow throughout the case and prevent any internal heat buildup. It is highly popular among PC builders for its airflow-to-cost ratio and only added a minor £3.99 to the overall budget.
 ---
-#### Conclusion
-
-
+### Conclusion
+In conclusion, this hardware selection outlines a highly cost-effective and reliable system tailored specifically to the demands of administrative and office work. By prioritizing utility over aesthetics—such as opting for a clean, its budget fits within the required £950 budget whist ensuring quality and futureproof components that should make Northwest Architecture Studio Ltd satisfied.
