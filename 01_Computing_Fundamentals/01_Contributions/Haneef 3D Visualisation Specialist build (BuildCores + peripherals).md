@@ -16,6 +16,9 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/sRLNoY0b2?share=t
 | | | |
 |**Total Price**|**$2406.95**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
+
+## Justification
+
 ### Case
 I chose this case because it looks professional and compatible with components relevant in building a high performing system such as motherboard, power supply, fans etc..
 ### Motherboard
