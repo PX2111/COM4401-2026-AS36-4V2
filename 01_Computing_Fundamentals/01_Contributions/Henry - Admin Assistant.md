@@ -1,4 +1,4 @@
-BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=true)
+<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/bcca0a20-7973-43b4-8f04-c99abb56163a" />BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=true)
 
  
 |**Component**|**Title**|**Price**|
@@ -17,3 +17,37 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 |**Total Price**|**£287.61**| |
 |**Price For 3**|**£862.83**| |
 |**Total Leftover**|**£87.17**| |
+
+### Component Justifications
+
+#### Case
+* **Model:** NZXT H5 Flow Micro ATX Mid Tower Black (with Tinted Tempered Glass Side Panel and USB 3.2 Gen 2x2 Type-C, USB 3.2 Gen 1 Type-A Front Panel)
+* **Justification:** I chose this case because it is affordable and highly compatible with all the selected components. I explicitly avoided expensive aesthetic features like built-in RGB lighting, as they do not offer functional value to justify an extra £200 cost.
+
+#### CPU
+* **Model:** AMD Ryzen 3 3200G
+* **Justification:** This processor is ideal for low-cost office and administrative systems, which do not require the heavy computing or graphical performance of high-end CPUs. I chose the "G" version to utilize its integrated graphics, which are highly rated for low-to-mid-range setups. This allows the system to support multiple displays without a dedicated graphics card. Additionally, its expected lifespan of 8–10 years provides sufficient future-proofing for office work.
+
+#### Motherboard
+* **Model:** Asus TUF GAMING A520M-PLUS WIFI AM4 DDR4 Micro ATX
+* **Justification:** This motherboard provides all necessary features for an administrative assistant at a budget-friendly price point. It natively supports the chosen CPU, includes a built-in Network Interface Card (NIC) for connectivity, and offers 4 RAM slots alongside 3 PCIe expansion slots for future flexibility.
+
+#### RAM
+* **Model:** Patriot Signature Line SODIMM DDR4-2400 CL19 12GB (3 x 4GB)
+* **Justification:** I selected three 4GB sticks of DDR4 RAM to reach a total of 12GB. At only £20 per stick, this configuration is highly economical. A 12GB capacity is more than enough for daily administrative duties, allowing multiple standard office programs to run simultaneously without bottlenecking performance or crossing the 10GB threshold.
+
+#### CPU Cooler
+* **Model:** AMD Wraith Stealth Socket AM4
+* **Justification:** I opted for this highly reviewed budget CPU fan to prevent the processor from overheating. It is inexpensive, reliable, and user reviews frequently praise its exceptionally quiet operation.
+
+#### Storage
+* **Model:** TEAMGROUP MP33 1TB M.2-2280 SSD PCIe 3.0 x4 NVMe
+* **Justification:** This 1TB PCIe 3.0 NVMe SSD offers high speeds and an excellent storage-per-cost ratio. Because modern enterprise businesses heavily rely on cloud storage rather than fragmenting data across local machines, a fast 1TB drive provides more than enough capacity for system files and local caching.
+
+#### Power Supply (PSU)
+* **Model:** be quiet! Straight Power 12 Black 750W Fully Modular 80+ Platinum
+* **Justification:** This 750W power supply delivers more than enough wattage to run the entire system effortlessly and quietly. Its premium 80+ Platinum efficiency rating guarantees minimal energy waste, supporting an eco-friendly office environment and reducing long-term power usage.
+
+#### Case Fan
+* **Model:** ARCTIC P12 120mm Black
+* **Justification:** I added this basic 120mm fan to ensure steady, reliable airflow throughout the case and prevent any internal heat buildup. It is highly popular among PC builders for its airflow-to-cost ratio and only added a minor £3.99 to the overall budget.
