@@ -191,9 +191,9 @@ To further improve productivity, the existing monitors currently used by staff w
 
 # Peripherals
 
-CAD software does not require specialised keyboards or mice.
+CAD software does not require any specialised keyboards, mice or other hardware.
 
-To reduce unnecessary expenditure, the existing keyboards, mice, and headsets will be cleaned and reused. This approach saves money while still providing employees with the necessary peripherals for their work.
+To reduce how much money is being spent, the existing keyboards, mice, and headsets will be cleaned and reused. This approach saves money while still providing employees with the necessary peripherals that they need for their work.
 
 ---
 
@@ -220,4 +220,6 @@ This workstation configuration costs **£1,833.54 per system**, remaining comfor
 
 The combination of the Ryzen 7 9700X, Radeon RX 9070 XT, 32GB DDR5 memory, NVMe SSD storage, and QD-OLED display ensures excellent performance, productivity, and longevity for professional use.
 
-The reuse of existing peripherals and secondary displays further improves value while enhancing user productivity through a dual-monitor setup.
+The reuse of existing peripherals and secondary displays further improves value while enhancing user productivity through a dual monitor setup.
+
+the given budget of £2350 was to be honest too much and unseeded and I didn't feel comfortable wasting company money overspending on unnecessary things that would of been slightly better for a lot more money being used
