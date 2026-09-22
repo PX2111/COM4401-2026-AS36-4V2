@@ -13,4 +13,5 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 |Power Supply|[be quiet! Straight Power 12 Black 750W Fully Modular 80+ Platinum](https://uk.buildcores.com/products/PSU/etfwc1dlu/be-quiet!-Straight-Power-12-Black-750W-Fully-Modular-80%2B-Platinum)|[£19.99 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fcorsair-pc-diy-precision-toolkit-65-nickel-plated-screw-bits-extension-rod-magnetised-tray-driver-ca)|
 |Case Fan|[ARCTIC P12 120mm Black](https://uk.buildcores.com/products/CaseFan/6tt8ltq2c/ARCTIC-P12-120mm-Black)|[£3.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2F120mm-arctic-p12-5-blade-static-pressure-fan-1800rpm-563cfm-fluid-dynamic-bearing-3-pin-black)|
 | | | |
-|**Total Price**|**$267.62**| |
+|**Total Price**|**£267.62**| |
+|**Price For 3**|**£802.86**| |
