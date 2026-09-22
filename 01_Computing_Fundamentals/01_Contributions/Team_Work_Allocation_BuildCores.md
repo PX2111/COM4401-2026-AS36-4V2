@@ -17,7 +17,7 @@
 | Member | Role / build owned | Qty | Budget each | Workstation level |
 |--------|--------------------|-----|-------------|-------------------|
 |Henry| Administrative Assistant | 3 | £950 | Basic office hardware |
-| | Project Manager | 2 | £1,250 | Business workstation |
+|Pandeli | Project Manager | 2 | £1,250 | Business workstation |
 |Brian| Architect / CAD Designer | 5 | £2,350 | CAD build with dedicated GPU |
 |Haneef | 3D Visualisation Specialist | 2 | £3,600 | High-performance rendering |
 
