@@ -1,6 +1,9 @@
 #Project Manager Builds
 
  
+BuildCores Parts List: [Link](https://uk.buildcores.com/builds/l6VqfNHWS?share=true)
+
+ 
 |**Component**|**Title**|**Price**|
 |:-|:-|:-|
 |Case|[Phanteks XT PRO ATX Mid Tower Black Tempered Glass Side Panel](https://uk.buildcores.com/products/PCCase/dj5bop744/Phanteks-XT-PRO-ATX-Mid-Tower-Black-Tempered-Glass-Side-Panel)|[£52.98 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2Fph-xt523p1-bk01-phanteks-xt-pro-atx-tempered-glass)|
@@ -14,12 +17,17 @@
 |Mouse|[Logitech M90 Wired Optical Mouse](https://uk.buildcores.com/products/Mouse/4hwsev1ew/Logitech-M90-Wired-Optical-Mouse)|[£4.49 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Flogitech-m90-optical-mouse-high-definition-optical-tracking-ambidextrous-design-usb-black)|
 |Monitor|[Pixio PX246 Wave 24" 1080p 120Hz IPS Monitor](https://uk.buildcores.com/products/Monitor/xmm6409b7/Pixio-PX246-Wave-24%22-1080p-120Hz-IPS-Monitor)|[£69.99 (Amazon)](https://www.amazon.co.uk/dp/B0DWVF8HYC?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |Monitor|[Pixio PX246 Wave 24" 1080p 120Hz IPS Monitor](https://uk.buildcores.com/products/Monitor/xmm6409b7/Pixio-PX246-Wave-24%22-1080p-120Hz-IPS-Monitor)|[£69.99 (Amazon)](https://www.amazon.co.uk/dp/B0DWVF8HYC?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|Microphone|[TKGOU USB Microphone](https://uk.buildcores.com/products/Microphone/vcjpgisfo/TKGOU-USB-Microphone)|[£17.99 (Amazon)](https://www.amazon.co.uk/dp/B07D561S67?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 | | | |
-|**Total Price**|**$1200.05**| |
+|**Total Price**|**$1218.04**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
 
 
 
+
+
+ 
+BuildCores Parts List: [Link](https://uk.buildcores.com/builds/EOzkU3jb9?share=true)
 
  
 |**Component**|**Title**|**Price**|
@@ -35,8 +43,10 @@
 |Monitor|[Pixio PX246 Wave 24" 1080p 120Hz IPS Monitor](https://uk.buildcores.com/products/Monitor/ytuss3uag/Pixio-PX246-Wave-24%22-1080p-120Hz-IPS-Monitor)|[£89.99 (Amazon)](https://www.amazon.co.uk/dp/B0DWV1DSDF?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |Keyboard|[V7 KU200US Wired Standard Keyboard](https://uk.buildcores.com/products/Keyboard/gahcnxq6x/V7-KU200US-Wired-Standard-Keyboard)|[£20.44 (Amazon)](https://www.amazon.co.uk/dp/B0758F6J26?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 |Mouse|[HP HyperX Pulsefire Haste 2 Wireless Black](https://uk.buildcores.com/products/Mouse/4myip9e5f/HP-HyperX-Pulsefire-Haste-2-Wireless-Black)|[£49.99 (Amazon)](https://www.amazon.co.uk/dp/B0BX52C4LN?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
+|Webcam|[Logitech C930e 1080p Webcam](https://uk.buildcores.com/products/Webcam/yaqfui86b/Logitech-C930e-1080p-Webcam)|[£9.99 (BackToTheOffice)](https://www.awin1.com/cread.php?awinmid=61655&awinaffid=743627&campaign=BuildCores.com&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Flogitech-c930e-privacy-cover%3Fvariant%3D55308830146942)|
+|Microphone|[TKGOU USB Microphone](https://uk.buildcores.com/products/Microphone/vcjpgisfo/TKGOU-USB-Microphone)|[£17.99 (Amazon)](https://www.amazon.co.uk/dp/B07D561S67?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
 | | | |
-|**Total Price**|**$1220.32**| |
+|**Total Price**|**$1248.3**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
 
 **Justification
