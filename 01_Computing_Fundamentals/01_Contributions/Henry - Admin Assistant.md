@@ -1,6 +1,7 @@
-<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/bcca0a20-7973-43b4-8f04-c99abb56163a" />BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=true)
+BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=true)
 
- 
+ <img width="957" height="1081" alt="image" src="https://github.com/user-attachments/assets/0ef5ee78-b7b1-4e7c-a23c-84e71e477169" />
+
 |**Component**|**Title**|**Price**|
 |:-|:-|:-|
 |Case|[NZXT H3 Flow Micro ATX Mid Tower Black with Tinted Tempered Glass Side Panel and USB 3.2 Gen 2x2 Type-C, USB 3.2 Gen 1 Type-A Front Panel](https://uk.buildcores.com/products/PCCase/v0gjaqow2/NZXT-H3-Flow-Micro-ATX-Mid-Tower-Black-with-Tinted-Tempered-Glass-Side-Panel-and-USB-3.2-Gen-2x2-Type-C%2C-USB-3.2-Gen-1-Type-A-Front-Panel)|[£39.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fnzxt-h3-flow-microatx-chassis-black-tempered-glass-1x-f12oq-fan-reverse-connection-ready-matx-mitxpl)|
