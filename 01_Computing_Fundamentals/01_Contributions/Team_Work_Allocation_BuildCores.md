@@ -29,7 +29,7 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Pandeli | Haneef | Member 3 | Member 4 |
+| Task | Pandeli | Haneef | Brian | Henry |
 |------|----------|----------|----------|----------|
 | Administrative Assistant build (BuildCores + peripherals) | | | | |
 | Project Manager build (BuildCores + peripherals) | | | | |
