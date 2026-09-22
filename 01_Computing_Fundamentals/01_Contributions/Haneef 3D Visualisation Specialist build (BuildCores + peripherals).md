@@ -16,3 +16,11 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/sRLNoY0b2?share=t
 | | | |
 |**Total Price**|**$2406.95**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
+### Case
+
+### Motherboard
+I chose this motherboard because it supports wifi specifically wifi 7. This means the system will be able to connect to the internet at high speeds and low latency wirelessly as an alternative to ethernet cables which makes it more flexible overall.
+### GPU 
+I chose this GPU because it is suitable for most modern day graphical applications and professional render workflows which is perfect for this role.
+### CPU cooler
+I chose this cooler because it will help prevent the CPU from overheating due to the high workload.
