@@ -3,6 +3,28 @@
 **Build Link:**  
 https://uk.buildcores.com/builds/YILQdqayk?share=true
 
+**build table**
+BuildCores Parts List: [Link](https://uk.buildcores.com/builds/YILQdqayk?share=true)
+
+ 
+|**Component**|**Title**|**Price**|
+|:-|:-|:-|
+|Case|[Montech X5M Micro ATX Mini Tower White with Tempered Glass Side Panel](https://uk.buildcores.com/products/PCCase/cgc8kt8wz/Montech-X5M-Micro-ATX-Mini-Tower-White-with-Tempered-Glass-Side-Panel)|[£24.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fmontech-x5m-white-matx-chassis-tempered-glass-4-x-120mm-argb-fans-usb-30-matx-mitx)|
+|CPU|[AMD Ryzen 7 9700X](https://uk.buildcores.com/products/CPU/x2thvstj3/AMD-Ryzen-7-9700X)|[£244.99 (Overclockers)](https://www.awin1.com/cread.php?awinmid=28821&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fwww.overclockers.co.uk%2Famd-ryzen-7-9700x-eight-core-5.50ghz-socket-am5-processor-retail-pro-amd-02676.html)|
+|Motherboard|[MSI PRO B840M-B AM5 DDR5 Micro ATX](https://uk.buildcores.com/products/Motherboard/d9iekvgm9/MSI-PRO-B840M-B-AM5-DDR5-Micro-ATX)|[£89.94 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2Fpro-b840m-b-msi-matx-amd-socket-am5-motherboard)|
+|GPU|[Gigabyte Radeon RX 9070 XT GAMING OC ICE 16G](https://uk.buildcores.com/products/GPU/03ovncz81/Gigabyte-Radeon-RX-9070-XT-GAMING-OC-ICE-16G)|[£649.99 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2Fgv-r907xgamingocice-16gd-ag-gigabyte-rx-9070-xt-gpu)|
+|RAM|[TEAMGROUP T-Force Vulcanα Black / Silver DDR5-5600 CL40 32GB (2x16GB)](https://uk.buildcores.com/products/RAM/3xy15bty3/TEAMGROUP-T-Force-Vulcan%CE%B1-Black-Silver-DDR5-5600-CL40-32GB-(2x16GB))|[£379.99 (Overclockers)](https://www.awin1.com/cread.php?awinmid=28821&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fwww.overclockers.co.uk%2Fteamgroup-vulcan-expo-32gb-2x16gb-ddr5-pc5-44800c40-5600mhz-dual-channel-my-0b3-tg.html)|
+|CPU Cooler|[be quiet! Pure Rock Slim 2 Air 135mm Black / Silver](https://uk.buildcores.com/products/CPUCooler/slyqaq40o/be-quiet!-Pure-Rock-Slim-2-Air-135mm-Black-Silver)|[£14.99 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fbe-quiet!-pure-rock-slim-2-single-tower-cpu-cooler-1x-92mm-silence-optimised-pwm-fan-3-copper-heatpi)|
+|Storage|[TEAMGROUP MP33 1TB M.2-2280 SSD PCIe 3.0 x4 NVMe](https://uk.buildcores.com/products/Storage/emt62v32u/TEAMGROUP-MP33-1TB-M.2-2280-SSD-PCIe-3.0-x4-NVMe)|[£29.72 (Quzo)](https://www.awin1.com/cread.php?awinmid=19849&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fwww.quzo.co.uk%2Fteam-128gb-elite-a1-micro-sdxc-card-with-sd-adapter-uhsi-class-3-u3-a1-app-performance-100mbs-teausdx128giv30a103-pid385072.html)|
+|Power Supply|[be quiet! Straight Power 12 Black 750W Fully Modular 80+ Platinum](https://uk.buildcores.com/products/PSU/etfwc1dlu/be-quiet!-Straight-Power-12-Black-750W-Fully-Modular-80%2B-Platinum)|[£19.99 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fcorsair-pc-diy-precision-toolkit-65-nickel-plated-screw-bits-extension-rod-magnetised-tray-driver-ca)|
+|Monitor|[MSI MAG 272QPW QD-OLED X28 26.5" WQHD 280Hz](https://uk.buildcores.com/products/Monitor/hgb2b31a4/MSI-MAG-272QPW-QD-OLED-X28-26.5%22-WQHD-280Hz)|[£378.95 (Overclockers)](https://www.awin1.com/cread.php?awinmid=28821&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fwww.overclockers.co.uk%2Fmsi-mag-272qpw-qd-oled-x28-27-2560x1440-wqhd-280hz-0.03ms-adaptive-sync-mon-msi-06104.html)|
+| | | |
+|**Total Price**|**$1833.54**| |
+|[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
+
+
+<img width="2400" height="1260" alt="New Build 2-share" src="https://github.com/user-attachments/assets/590033fa-1eed-4696-b76c-33805152bdfb" />
+
 ## Overview
 
 This workstation has been designed for architects and CAD professionals who require strong processing power, excellent graphics performance, sufficient memory capacity, and a high-quality display. The build focuses on maximizing productivity while remaining within budget.
