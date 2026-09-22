@@ -15,5 +15,5 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 |Case Fan|[ARCTIC P12 120mm Black](https://uk.buildcores.com/products/CaseFan/6tt8ltq2c/ARCTIC-P12-120mm-Black)|[£3.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2F120mm-arctic-p12-5-blade-static-pressure-fan-1800rpm-563cfm-fluid-dynamic-bearing-3-pin-black)|
 | | | |
 |**Total Price**|**£287.61**| |
-|**Price For 3**|**£802.86**| |
-|**Total Leftover**|**£147.14**| |
+|**Price For 3**|**£862.83**| |
+|**Total Leftover**|**£87.17**| |
