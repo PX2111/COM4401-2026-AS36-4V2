@@ -14,3 +14,5 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/YILQdqayk?share=t
 | | | |
 |**Total Price**|**$1454.59**| |
 |[BuildCores Web](https://uk.buildcores.com)|[BuildCores iOS](https://apps.apple.com/us/app/buildcores-part-picker-for-pc/id1441971434)|[BuildCores Android](https://play.google.com/store/apps/details?id=com.buildcores.buildcores&pcampaignid=web_share)|
+
+<img width="2400" height="1260" alt="New Build 2-share" src="https://github.com/user-attachments/assets/590033fa-1eed-4696-b76c-33805152bdfb" />
