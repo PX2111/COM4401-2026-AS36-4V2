@@ -15,7 +15,7 @@
 
 | Section / theme | Responsible member(s) | Draft ready by |
 |-----------------|-----------------------|----------------|
-| Section 1: Password hygiene | | |
+| Section 1: Password hygiene |Brian Ahmed|20/10/2026|
 | Section 2: Two-factor authentication | | |
 | Section 3: Phishing recognition | | |
 | Section 4: Safe use of devices | | |
