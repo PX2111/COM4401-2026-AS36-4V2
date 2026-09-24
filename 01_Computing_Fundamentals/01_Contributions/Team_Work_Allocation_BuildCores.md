@@ -36,7 +36,7 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Architect / CAD Designer build (BuildCores + peripherals) |CI |CI |RA |CI |
 | 3D Visualisation Specialist build (BuildCores + peripherals) | CI| RA| CI| CI|
 | Component justifications (role suitability & value) | | | | |
-| Pricing evidence (screenshots, links, date checked) | | | | |
+| Pricing evidence (screenshots, links, date checked) |RA|RA|RA|RA|
 | Combined budget & comparison table | | | | |
 | Final team recommendation | | | | |
 | Ethical / responsible purchasing commentary | | | | |
