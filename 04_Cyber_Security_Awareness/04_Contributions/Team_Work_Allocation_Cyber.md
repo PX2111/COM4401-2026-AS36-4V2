@@ -18,8 +18,8 @@
 | Section 1: Password hygiene | |20/10/2026|
 | Section 2: Two-factor authentication |Brian Ahmed|20/10/2026|
 | Section 3: Phishing recognition |Henry Morgan|20/10/2026|
-| Section 4: Safe use of devices | |20/10/2026|
-| Section 5: Public Wi-Fi | |20/10/2026|
+| Section 4: Safe use of devices |Wayne Madire|20/10/2026|
+| Section 5: Public Wi-Fi |Pandeli Xharahu|20/10/2026|
 | Introduction & conclusion (whole team) | |20/10/2026|
 | Contents page & reference list (compile last) | |20/10/2026|
 
