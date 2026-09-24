@@ -6,8 +6,8 @@
 |---|---|
 | **Team name** | |
 | **Repository** | |
-| **Deadline** | |
-| **How we'll keep in touch** | *(e.g. group chat, weekly check-in)* |
+| **Deadline** | Friday 23 October 2026 |
+| **How we'll keep in touch** | Whatsapp Groupchat *(e.g. group chat, weekly check-in)* |
 
 ---
 
@@ -15,10 +15,10 @@
 
 | Member | Build / area owned | What they'll deliver |
 |--------|--------------------|----------------------|
-| | Administrative Assistant build | |
-| | Project Manager build | |
-| | Architect / CAD Designer build | |
-| | 3D Visualisation Specialist build | |
+| Henry | Administrative Assistant build | |
+| Pandeli | Project Manager build | |
+| Brian | Architect / CAD Designer build | |
+| Haneef | 3D Visualisation Specialist build | |
 
 > Add or remove a row for a 3- or 5-person team. Shared tasks (final recommendation, budget check, ethics write-up) can be added as extra rows.
 
@@ -28,13 +28,13 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Member 1 | Member 2 | Member 3 | Member 4 |
+| Task | Pandeli | Haneef | Brian | Henry |
 |------|----------|----------|----------|----------|
-| Database schema (tables, keys, data types) | | | | |
-| EmployeeRoles table | | | | |
-| WorkstationBuilds table | | | | |
-| BuildItems table | | | | |
-| Recommendations table | | | | |
-| Data integrity rules (PKs, FKs, NOT NULL, numeric costs) | | | | |
-| Ethical / professional considerations write-up | | | | |
-| Final team recommendation & budget check | | | | |
+| Database schema (tables, keys, data types)                 | CI | CI | CI | CI |
+| EmployeeRoles table                                        | CI | CI | CI | CI |
+| WorkstationBuilds table                                    | CI | CI | CI | CI |
+| BuildItems table                                           | CI | CI | CI | CI |
+| Recommendations table                                      | CI | CI | CI | CI |
+| Data integrity rules (PKs, FKs, NOT NULL, numeric costs)   | | | | |
+| Ethical / professional considerations write-up             | | | | |
+| Final team recommendation & budget check                   | | | | |
