@@ -28,7 +28,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 
 #### CPU
 * **Model:** AMD Ryzen 3 3200G
-* **Justification:** This processor is ideal for low-cost office and administrative systems, which do not require the heavy computing or graphical performance of high-end CPUs. I chose the "G" version to utilize its integrated graphics, which are highly rated for low-to-mid-range setups. This allows the system to support multiple displays without a dedicated graphics card. Additionally, its expected lifespan of 8–10 years provides sufficient future-proofing for office work.
+* **Justification:** This processor is ideal for low-cost office and administrative systems, which do not require the heavy computing or graphical performance of high-end CPUs. I chose the "G" version to utilize its integrated graphics, which are highly rated for low-to-mid-range setups. This allows the system to support multiple displays without a dedicated graphics card. Additionally, its expected lifespan of 8-10 years provides sufficient future-proofing for office work.
 ---
 
 #### Motherboard
@@ -43,7 +43,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 
 #### CPU Cooler
 * **Model:** AMD Wraith Stealth Socket AM4
-* **Justification:** I opted for this highly reviewed budget CPU fan to prevent the processor from overheating. It is inexpensive, reliable, and user reviews frequently praise its exceptionally quiet operation.
+* **Justification:** I opted for this highly reviewed budget CPU fan to prevent the processor from overheating. It is inexpensive, reliable, and user reviews frequently praise its exceptionally quiet operation. it would be perfect for the job role as the workload for the cpu won't be too bad even with multitasking.
 ---
 
 #### Storage
@@ -57,7 +57,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 ---
 #### Case Fan
 * **Model:** ARCTIC P12 120mm Black
-* **Justification:** I added this basic 120mm fan to ensure steady, reliable airflow throughout the case and prevent any internal heat buildup. It is highly popular among PC builders for its airflow-to-cost ratio and only added a minor £3.99 to the overall budget.
+* **Justification:** I added this basic 120mm fan to ensure steady, reliable airflow throughout the case and prevent any internal heat buildup. It is highly popular among PC builders for its airflow-to-cost ratio and only added a minor £3.99 to the overall budget. I thought that adding a casefan would improve device safety at a low cost and ensure all the components keep cool whist the admin is utilizing programs that are more heavy on CPU usage (eg. Microsoft Excel).
 ---
 ### Conclusion
-In conclusion, this hardware selection outlines a VERY highly cost-effective and reliable system tailored specifically to the demands of administrative and office work. By prioritizing utility over aesthetics—such as opting for a clean, its budget fits within the required £950 budget whist ensuring quality and futureproof components that should make Northwest Architecture Studio Ltd satisfied. Im justifying my saving of so much of the cost for all three systems by pointing out that for most administrative work, a cost effective solution is usually more worth it since replacing expensive parts every 7-10 years is extremly costly, and only for a slight boost in performance, basically going cheaper means that futureproofing is actually easier because buying cheap parts is much more cost effective.
+In conclusion, this hardware selection outlines a VERY highly cost-effective and reliable system tailored specifically to the demands of administrative and office work. By prioritizing utility over aesthetics-such as opting for a clean, its budget fits within the required £950 budget whist ensuring quality and futureproof components that should make Northwest Architecture Studio Ltd satisfied. Im justifying my saving of so much of the cost for all three systems by pointing out that for most administrative work, a cost effective solution is usually more worth it since replacing expensive parts every 7-10 years is extremly costly, and only for a slight boost in performance, basically going cheaper means that futureproofing is actually easier because buying cheap parts is much more cost effective.
