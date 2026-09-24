@@ -33,7 +33,7 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Database schema (tables, keys, data types)                 | CI | CI | CI | CI |
 | EmployeeRoles table                                        | CI | CI | CI | CI |
 | WorkstationBuilds table                                    | CI | CI | CI | CI |
-| BuildItems table                                           | CI | CI | CI | CI |
+| BuildItems table                                           | CI | CI | CI | RA |
 | Recommendations table                                      | CI | CI | CI | CI |
 | Data integrity rules (PKs, FKs, NOT NULL, numeric costs)   | | | | |
 | Ethical / professional considerations write-up             | | | | |
