@@ -1,1 +1,44 @@
+NSERT INTO WorkstationBuilds
+(RoleID, BuildName, Source)
+VALUES
+(3, 'Project Manager Build', 'Personal');
 
+
+-- =========================================
+-- COMPONENTS
+-- Replace <BUILD_ID> with the ID of the
+-- workstation inserted above
+-- =========================================
+
+INSERT INTO BuildItems
+(BuildID, HardwareCategory, ItemName, Specification, Cost)
+VALUES
+(3, 'Corsair 3200D RS Black',
+59.99),
+
+(3, 'Intel Core i9-14900',
+431.50),
+
+(3, 'ASUS PRIME B760-PLUS',
+114.99),
+
+(<BUILD_ID>, 'GPU',
+'N/A',
+'N/A',
+0),
+
+(3, 'ADATA Premier Black DDR5-4800 CL40 16GB (1x16GB)
+',
+170.99),
+
+(3, 'AMD Wraith Stealth Socket AM4',
+9.99),
+
+(3, 'Kingston NV3 PCIe 4.0 NVMe SSD 2280 1TB',
+128.99),
+
+(3, 'MSI MAG A750GL PCIE5 Black 750W Fully Modular 80+ Gold Certified',
+79.99),
+
+(3, 'Pixio PX246 Wave 24" 1080p 120Hz IPS Monitor',
+89.99);
