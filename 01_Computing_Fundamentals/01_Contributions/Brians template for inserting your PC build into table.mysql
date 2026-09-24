@@ -1,1 +1,59 @@
+INSERT INTO WorkstationBuilds
+(RoleID, BuildName, Source)
+VALUES
+(<ROLE_ID>, '<BUILD NAME>', '<SOURCE>');
 
+
+-- =========================================
+-- COMPONENTS
+-- Replace <BUILD_ID> with the ID of the
+-- workstation inserted above
+-- =========================================
+
+INSERT INTO BuildItems
+(BuildID, HardwareCategory, ItemName, Specification, Cost)
+VALUES
+(<BUILD_ID>, 'Case',
+'<CASE NAME>',
+'<CASE SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'CPU',
+'<CPU NAME>',
+'<CPU SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'Motherboard',
+'<MOTHERBOARD NAME>',
+'<MOTHERBOARD SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'GPU',
+'<GPU NAME>',
+'<GPU SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'RAM',
+'<RAM NAME>',
+'<RAM SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'CPU Cooler',
+'<COOLER NAME>',
+'<COOLER SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'Storage',
+'<STORAGE NAME>',
+'<STORAGE SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'Power Supply',
+'<PSU NAME>',
+'<PSU SPECIFICATION>',
+<PRICE>),
+
+(<BUILD_ID>, 'Monitor',
+'<MONITOR NAME>',
+'<MONITOR SPECIFICATION>',
+<PRICE>);
