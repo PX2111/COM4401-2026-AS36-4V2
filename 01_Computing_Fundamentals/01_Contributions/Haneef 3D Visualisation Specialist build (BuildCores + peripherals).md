@@ -28,4 +28,7 @@ I chose this GPU because it is suitable for most modern day graphical applicatio
 ### CPU cooler
 I chose this cooler because it will help prevent the CPU from overheating due to the high workload.
 ### Storage
-I chose this storage because it comes 1 TB storage which is enough storage to store multiple completed or ongoing projects without issue. 
+I chose this storage because it comes with 26 TB storage which is enough storage to store multiple completed or ongoing projects without issue. 
+### Power Supply
+I selected this power supply because it has 750W which is great as the GPU will require around 650 the excess will cover the rest of the components.
+
