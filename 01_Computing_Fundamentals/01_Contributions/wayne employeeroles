@@ -1,0 +1,20 @@
+-- create
+CREATE TABLE EmployeeRoles(
+  RoleID INT PRIMARY KEY,
+  RoleName VARCHAR(50),
+  StaffCount INT NOT NULL,
+  Tasks VARCHAR(255),
+  PerfromanceNeed VARCHAR(100),
+  BudgetPerUnit DECIMAL(82) NOT NULL 
+);
+  
+INSERT INTO EmployeeRoles
+(RoleID,RoleName,StaffCount,Tasks,PerfromanceNeed,BudgetPerUnit)
+
+VALUES 
+(1, 'Administrative Assistant', 3,'Complete hardware build and justification for 3 basic office workstations', 'Basic office hardware workstation', 850.00),
+(2, 'Project Manager', 2,'Complete hardware build and justification for 2 business workstations', 'Business hardware workstation with stronger display/workflow setup', 1250.00),
+(3, 'Architect / CAD Designer', 5,'Complete hardware build and justification for 5 CAD workstations', 'CAD hardware workstation with dedicated GPU and suitable display ', 2350.00),
+(4, '3D Visualisation Specialist workstation', 3, 'Complete hardware build and justification for 2 high-performance workstations','High-performance rendering/visualisation hardware workstation', 3750);
+
+Select *From EmployeeRoles
