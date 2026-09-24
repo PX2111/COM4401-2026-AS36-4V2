@@ -1,7 +1,7 @@
 BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=true)
 
  <img width="957" height="1081" alt="image" src="https://github.com/user-attachments/assets/0ef5ee78-b7b1-4e7c-a23c-84e71e477169" />
-
+ 
 |**Component**|**Title**|**Price**|
 |:-|:-|:-|
 |Case|[NZXT H3 Flow Micro ATX Mid Tower Black with Tinted Tempered Glass Side Panel and USB 3.2 Gen 2x2 Type-C, USB 3.2 Gen 1 Type-A Front Panel](https://uk.buildcores.com/products/PCCase/v0gjaqow2/NZXT-H3-Flow-Micro-ATX-Mid-Tower-Black-with-Tinted-Tempered-Glass-Side-Panel-and-USB-3.2-Gen-2x2-Type-C%2C-USB-3.2-Gen-1-Type-A-Front-Panel)|[£39.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fnzxt-h3-flow-microatx-chassis-black-tempered-glass-1x-f12oq-fan-reverse-connection-ready-matx-mitxpl)|
@@ -11,13 +11,13 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 |RAM|[Patriot Signature Line SODIMM DDR4-2400 CL19 4GB (1x4GB)](https://uk.buildcores.com/products/RAM/y99bf8bca/Patriot-Signature-Line-SODIMM-DDR4-2400-CL19-4GB-(1x4GB))|[£19.99 (BackToTheOffice)](https://www.awin1.com/cread.php?awinmid=61655&awinaffid=743627&campaign=BuildCores.com&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fpatriot-memory-signature-line-psd44g240081s-memory-module-4-gb-1-x-4-gb-ddr4-260-pin-so-dimm%3Fvariant%3D57404618768766)|
 |RAM|[Patriot Signature Line SODIMM DDR4-2400 CL19 4GB (1x4GB)](https://uk.buildcores.com/products/RAM/y99bf8bca/Patriot-Signature-Line-SODIMM-DDR4-2400-CL19-4GB-(1x4GB))|[£19.99 (BackToTheOffice)](https://www.awin1.com/cread.php?awinmid=61655&awinaffid=743627&campaign=BuildCores.com&ued=https%3A%2F%2Fwww.backtotheoffice.co.uk%2Fproducts%2Fpatriot-memory-signature-line-psd44g240081s-memory-module-4-gb-1-x-4-gb-ddr4-260-pin-so-dimm%3Fvariant%3D57404618768766)|
 |CPU Cooler|[AMD Wraith Stealth Socket AM4](https://uk.buildcores.com/products/CPUCooler/kzbbooyz9/AMD-Wraith-Stealth-Socket-AM4)|[£9.99 (Amazon)](https://www.amazon.co.uk/dp/B07MFMFL7R?tag=buildcoresx-21&linkCode=ogi&th=1&psc=1)|
-|Storage|[TEAMGROUP MP33 1TB M.2-2280 SSD PCIe 3.0 x4 NVMe](https://uk.buildcores.com/products/Storage/emt62v32u/TEAMGROUP-MP33-1TB-M.2-2280-SSD-PCIe-3.0-x4-NVMe)|[£29.72 (Quzo)](https://www.awin1.com/cread.php?awinmid=19849&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fwww.quzo.co.uk%2Fteam-128gb-elite-a1-micro-sdxc-card-with-sd-adapter-uhsi-class-3-u3-a1-app-performance-100mbs-teausdx128giv30a103-pid385072.html)|
-|Power Supply|[be quiet! Straight Power 12 Black 750W Fully Modular 80+ Platinum](https://uk.buildcores.com/products/PSU/etfwc1dlu/be-quiet!-Straight-Power-12-Black-750W-Fully-Modular-80%2B-Platinum)|[£19.99 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2Fcorsair-pc-diy-precision-toolkit-65-nickel-plated-screw-bits-extension-rod-magnetised-tray-driver-ca)|
+|Storage|[Kingston NV3 500GB SSD M.2-2280 PCIe 4.0 X4 NVMe](https://uk.buildcores.com/products/Storage/5cow1fchg/Kingston-NV3-500GB-SSD-M.2-2280-PCIe-4.0-X4-NVMe)|[£88.99 (CCL)](https://ccl.pxf.io/c/2299452/1991091/24481?prodsku=SSD1808&u=https%3A%2F%2Fwww.cclonline.com%2Fsnv3s-500g-500gb-kingston-nv3-m-2-2280-pci-express-4-0-x4-nvme-solid-state-drive-456873%2F&intsrc=CATF_16482)|
+|Power Supply|[Montech CENTURY II 850W 80+ Gold Certified Fully Modular](https://uk.buildcores.com/products/PSU/d2b6xinat/Montech-CENTURY-II-850W-80%2B-Gold-Certified-Fully-Modular)|[£79.99 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2F850w-montech-century-ii-fully-modular-pcie-51-80plus-gold-single-rail-708a-135mm-smart-zero-fan-sile)|
 |Case Fan|[ARCTIC P12 120mm Black](https://uk.buildcores.com/products/CaseFan/6tt8ltq2c/ARCTIC-P12-120mm-Black)|[£3.98 (ScanComputer)](https://www.awin1.com/cread.php?awinmid=15473&awinaffid=743627&ued=https%3A%2F%2Fwww.scan.co.uk%2Fproducts%2F120mm-arctic-p12-5-blade-static-pressure-fan-1800rpm-563cfm-fluid-dynamic-bearing-3-pin-black)|
 | | | |
-|**Total Price**|**£287.61**| |
-|**Price For 3**|**£862.83**| |
-|**Total Leftover**|**£1687.17**| |
+|**Total Price**|**$406.88**| |
+|**Price For 3**|**£1220.64**| |
+|**Total Leftover**|**£1629.36**| |
 
 ### Component Justifications
 
@@ -47,13 +47,13 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 ---
 
 #### Storage
-* **Model:** TEAMGROUP MP33 1TB M.2-2280 SSD PCIe 3.0 x4 NVMe
-* **Justification:** This 1TB PCIe 3.0 NVMe SSD offers high speeds and an excellent storage-per-cost ratio. Because modern enterprise businesses heavily rely on cloud storage rather than fragmenting data across local machines, a fast 1TB drive provides more than enough capacity for system files and local caching.
+* **Model:** Kingston NV3 500GB SSD M.2-2280 PCIe 4.0 X4 NVMe
+* **Justification:** This 500GB m.2-2280 NVMe SSD offers high speeds and an excellent storage-per-cost ratio. Because modern enterprise businesses heavily rely on cloud storage rather than fragmenting data across local machines, a fast 500TB drive provides more than enough capacity for system files, local caching and any other temporary files.
 ---
 
 #### Power Supply (PSU)
-* **Model:** be quiet! Straight Power 12 Black 750W Fully Modular 80+ Platinum
-* **Justification:** This 750W power supply delivers more than enough wattage to run the entire system effortlessly and quietly. Its premium 80+ Platinum efficiency rating guarantees minimal energy waste, supporting an eco-friendly office environment and reducing long-term power usage.
+* **Model:** Montech CENTURY II 850W 80+ Gold Certified Fully Modular
+* **Justification:** This 850W power supply delivers more than enough wattage to run the entire system effortlessly and quietly. Its certified for 80+ Gold efficiency rating guarantees minimal energy waste, supporting an eco-friendly office environment and reducing long-term power usage. This power supply should be more than enough for the computer to run silently, witch is important when working in an office environment.
 ---
 #### Case Fan
 * **Model:** ARCTIC P12 120mm Black
