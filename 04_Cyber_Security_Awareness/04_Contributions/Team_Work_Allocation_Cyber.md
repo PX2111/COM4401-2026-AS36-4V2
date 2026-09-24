@@ -31,18 +31,18 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | M1 | M2 | M3 | M4 |
-|------|----|----|----|----|
-| Password hygiene section | | | | |
-| Two-factor authentication (2FA) section | | | | |
-| Phishing recognition section | | | | |
-| Safe use of devices section | | | | |
-| Public Wi-Fi section | | | | |
-| Introduction (why it matters) | | | | |
-| Conclusion (practical takeaways) | | | | |
-| Fact-check: trace every statistic to origin | | | | |
-| Merge sections into one consistent style/tone | | | | |
-| Alphabetised reference list (Harvard) | | | | |
-| Contents page & final formatting | | | | |
+| Task | Pandeli | Haneef | Brian | Henry | Wayne |
+|------|----|----|----|----|----|
+| Password hygiene section | | | | | |
+| Two-factor authentication (2FA) section | | | | | |
+| Phishing recognition section | | | | | |
+| Safe use of devices section | | | | | |
+| Public Wi-Fi section | | | | | |
+| Introduction (why it matters) | | | | | |
+| Conclusion (practical takeaways) | | | | | |
+| Fact-check: trace every statistic to origin | | | | | |
+| Merge sections into one consistent style/tone | | | | | |
+| Alphabetised reference list (Harvard) | | | | | |
+| Contents page & final formatting | | | | | |
 
 > Columns M1–M4 are the team members — replace the headers with names.
