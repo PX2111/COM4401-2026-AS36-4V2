@@ -1,0 +1,19 @@
+CREATE TABLE Recommendations (
+ RecommendationID INT PRIMARY KEY,
+ RoleID INT,
+ Justification TEXT,
+ Compromise TEXT,
+ Approved BOOLEAN,
+ EthicalNotes TEXT,
+ FOREIGN KEY(RoleID) REFERENCES EmployeeRoles(RoleID)
+ );
+
+ INSERT INTO Recommendations
+ (RecommendationID,RoleID,Justification,Compromise,Approved,EthicalNotes)
+ VALUES
+ -- example
+ (1, 1, 'Good value for the budget','use a cheaper gpu', TRUE,'NO ethical concerns')
+
+
+
+ SELECT * FROM Recommendations;
