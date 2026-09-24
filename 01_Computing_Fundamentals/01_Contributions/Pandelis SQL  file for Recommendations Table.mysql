@@ -11,9 +11,26 @@ CREATE TABLE Recommendations (
  INSERT INTO Recommendations
  (RecommendationID,RoleID,Justification,Compromise,Approved,EthicalNotes)
  VALUES
- -- example
+ -- Build 1
  (1, 1, 'Good value for the budget','use a cheaper gpu', TRUE,'NO ethical concerns')
 
+ -- Build 2
+(2, 2, 'Balanced performance and cost for the intended build',
+ 'Consider a less expensive CPU if the budget is exceeded',
+ TRUE,
+ 'No ethical concerns'),
+
+-- Build 3
+(3, 3, 'Strong performance suitable for demanding workloads',
+ 'Use a smaller SSD or cheaper CPU to reduce the overall cost',
+ TRUE,
+ 'No ethical concerns'),
+
+-- Build 4
+(4, 4, 'Good balance between performance, reliability and budget',
+ 'Choose a lower-cost RAM kit if additional savings are needed',
+ TRUE,
+ 'No ethical concerns');
 
 
  SELECT * FROM Recommendations;
