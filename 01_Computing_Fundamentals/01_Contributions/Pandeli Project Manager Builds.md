@@ -5,7 +5,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/l6VqfNHWS?share=t
 
  
 |**Component**|**Title**|**Price**|
-|:-|:-|:-||:-|
+|:-|:-|:-|:-|
 |Case|[Phanteks XT PRO ATX Mid Tower Black Tempered Glass Side Panel](https://uk.buildcores.com/products/PCCase/dj5bop744/Phanteks-XT-PRO-ATX-Mid-Tower-Black-Tempered-Glass-Side-Panel)|[£52.98 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2Fph-xt523p1-bk01-phanteks-xt-pro-atx-tempered-glass)| 
 |CPU|[AMD Ryzen 9 9950X3D](https://uk.buildcores.com/products/CPU/7bc6f4l3a/AMD-Ryzen-9-9950X3D)|[£499.99 (Overclockers)](https://www.awin1.com/cread.php?awinmid=28821&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fwww.overclockers.co.uk%2Famd-ryzen-9-9950x3d-sixteen-core-5.70ghz-socket-am5-processor-retail-pro-amd-04501.html)| Strong CPU,most of the budget is concentrated here so every task is easy to do and multiple windows can run at once without any stuttering or lag
 |Motherboard|[ASUS TUF GAMING B850-PLUS WIFI](https://uk.buildcores.com/products/Motherboard/dcn2xndh2/ASUS-TUF-GAMING-B850-PLUS-WIFI)|[£159.99 (Box.co)](https://www.awin1.com/cread.php?awinmid=100685&awinaffid=743627&campaign=BuildCores&ued=https%3A%2F%2Fbox.co.uk%2F90mb1j30-m0eay0-ag-asus-tuf-gaming-b850-motherboard)| medium range motherboard with good all around capabilities 
