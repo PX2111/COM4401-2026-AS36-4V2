@@ -1,0 +1,90 @@
+CREATE TABLE `EmployeeRoles`(
+    `RoleID` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `RoleName` VARCHAR(50) NOT NULL,
+    `StaffCount` INT NOT NULL,
+    `Tasks` VARCHAR(255) NOT NULL,
+    `PerformanceNeed` VARCHAR(100) NOT NULL,
+    `BudgetPerUnit` DECIMAL(8, 2) NOT NULL
+);
+CREATE TABLE `WorkstationBuilds`(
+    `BuildID` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `RoleID` INT NOT NULL,
+    `BuildName` VARCHAR(100) NOT NULL,
+    `Source` VARCHAR(50) NOT NULL, 
+  FOREIGN KEY(RoleID)
+  REFERENCES EmployeeRoles(RoleID)
+);
+CREATE TABLE `BuildItems`(
+    `ItemID` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `BuildID` INT NOT NULL,
+    `HardwareCategory` VARCHAR(50) NOT NULL,
+    `ItemName` VARCHAR(100) NOT NULL,
+    `Specification` VARCHAR(150) NOT NULL,
+    `Cost` DECIMAL(8, 2) NOT NULL,
+  FOREIGN KEY(BuildID)
+  REFERENCES WorkstationBuilds(BuildID)
+);
+CREATE TABLE `Recommendations`(
+    `RecommendationID` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `RoleID` INT NOT NULL,
+    `Justification` TEXT NOT NULL,
+    `Compromise` TEXT NOT NULL,
+    `Approved` BOOLEAN NOT NULL,
+    `EthicalNotes` TEXT NOT NULL,
+  FOREIGN KEY(RoleID)
+  REFERENCES EmployeeRoles(RoleID)
+);
+
+INSERT INTO `EmployeeRoles` 
+(`RoleName`, `StaffCount`, `Tasks`, `PerformanceNeed`, `BudgetPerUnit`)
+VALUES 
+('Architect / CAD Designer', 5, '3D Modeling and Rendering', 'High GPU/CPU', 2000.00);
+
+-- YOUR PC BUILD
+
+INSERT INTO WorkstationBuilds
+(RoleID, BuildName, Source)
+VALUES
+(1, 'CAD/architect employee workstation build', 'Personal Build');
+
+
+INSERT INTO BuildItems
+(BuildID, HardwareCategory, ItemName, Specification, Cost)
+VALUES
+(1, 'Case',
+'Montech X5M Micro ATX Mini Tower White',
+'Tempered Glass Side Panel', 24.98),
+
+(1, 'CPU',
+'AMD Ryzen 7 9700X',
+'AM5, 8 cores, 16 threads', 244.99),
+
+(1, 'Motherboard',
+'MSI PRO B840M-B AM5 DDR5 Micro ATX',
+'Micro ATX, AM5, DDR5', 89.94),
+
+(1, 'GPU',
+'Gigabyte Radeon RX 9070 XT GAMING OC ICE 16G',
+'16GB VRAM', 649.99),
+
+(1, 'RAM',
+'TEAMGROUP T-Force Vulcanα',
+'32GB (2x16GB) DDR5-5600 CL40', 379.99),
+
+(1, 'CPU Cooler',
+'be quiet! Pure Rock Slim 2',
+'Air cooler, 135mm', 14.99),
+
+(1, 'Storage',
+'TEAMGROUP MP33 1TB',
+'1TB M.2-2280 PCIe 3.0 x4 NVMe SSD', 29.72),
+
+(1, 'Power Supply',
+'be quiet! Straight Power 12',
+'750W, Fully Modular, 80+ Platinum', 19.99),
+
+(1, 'Monitor',
+'MSI MAG 272QPW QD-OLED X28',
+'26.5 inch, WQHD, 280Hz', 378.95);
+
+SELECT * FROM BuildItems;
