@@ -1,4 +1,5 @@
 # 3D Visualisation Specialist build (BuildCores + peripherals)
+<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/137a2346-0410-464b-94f8-744cd8bd62f8" />
 
 BuildCores Parts List: [Link](https://uk.buildcores.com/builds/sRLNoY0b2?share=true)
 
