@@ -57,7 +57,7 @@ A high-performance processor is important for a professional workstation because
 ---
  
 ## CPU Cooler
- 
+
 The CPU cooler will help prevent the processor from overheating when the system is placed under heavy workloads.
  
 Effective cooling is particularly important in a high-performance workstation because demanding applications can place the CPU under significant load for extended periods. Keeping the processor at an appropriate operating temperature can help the system maintain stable performance.
