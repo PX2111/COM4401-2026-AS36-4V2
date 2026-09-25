@@ -20,16 +20,71 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/sRLNoY0b2?share=t
 
 ## Justification
 
-### Case
-I chose this case because it looks professional and compatible with components relevant in building a high performing system such as motherboard, power supply, fans etc..
-### Motherboard
-I chose this motherboard because it supports wifi specifically wifi 7. This means the system will be able to connect to the internet at high speeds and low latency wirelessly as an alternative to ethernet cables which makes it more flexible overall. This may allow the computer system to be located in places or spaces within the building where by an ethernet cable isn't the most reliable option.
-### GPU 
-I chose this GPU because it is suitable for most modern day graphical applications and professional render workflows which is perfect for this role. 
-### CPU cooler
-I chose this cooler because it will help prevent the CPU from overheating due to the high workload.
-### Storage
-I chose this storage because it comes with 26 TB storage which is enough storage to store multiple completed or ongoing projects without issue. 
-### Power Supply
-I selected this power supply because it has 750W which is great as the GPU will require around 650 the excess will cover the rest of the components.
+# Computer System Component Justification
+ 
+## Case
+### Lian Li O11 Dynamic Mini V2 ATX Mini Tower - Black
+ 
+The Lian Li O11 Dynamic Mini V2 provides a professional appearance while offering the space and compatibility required for a high-performance computer system. It is designed to accommodate important components such as the motherboard, power supply, cooling fans, storage devices, and graphics card.
+ 
+Its design makes it suitable for a professional workstation where both performance and appearance are important.
+ 
+---
+ 
+## Motherboard
+ 
+The selected motherboard supports **Wi-Fi 7**, allowing the computer system to connect to the network wirelessly at high speeds and with low latency.
+ 
+Wireless connectivity provides greater flexibility when deciding where the system will be located within the building. This is particularly useful in areas where using a wired Ethernet connection may be difficult or impractical.
+ 
+---
+ 
+## GPU
+ 
+The selected GPU is suitable for modern graphically demanding applications and professional rendering workflows.
+ 
+A powerful GPU is particularly important for workloads involving tasks such as 3D rendering, graphical applications, video production, and other GPU-accelerated software. This makes the selected GPU suitable for a high-performance professional workstation.
+ 
+---
+ 
+## CPU
+### AMD Ryzen 7 9850X3D
+ 
+The AMD Ryzen 7 9850X3D provides the processing performance required for demanding applications and workloads.
+ 
+A high-performance processor is important for a professional workstation because it allows the system to efficiently process complex tasks and work alongside the GPU when running demanding applications.
+ 
+---
+ 
+## CPU Cooler
+ 
+The CPU cooler will help prevent the processor from overheating when the system is placed under heavy workloads.
+ 
+Effective cooling is particularly important in a high-performance workstation because demanding applications can place the CPU under significant load for extended periods. Keeping the processor at an appropriate operating temperature can help the system maintain stable performance.
+ 
+---
+ 
+## Storage
+### Western Digital WD Red Pro 26TB 3.5" HDD - 7200 RPM, SATA 6.0 Gb/s
+ 
+The Western Digital WD Red Pro provides **26 TB of storage capacity**, giving the system a large amount of space for completed and ongoing projects.
+ 
+This capacity is beneficial for professional workloads that may involve large project files, allowing multiple projects and other important data to be stored locally without storage capacity becoming an immediate limitation.
+ 
+---
+ 
+## Power Supply
+### NZXT C850 (2024) Black - 850W
+ 
+The NZXT C850 provides **850W of power** to the computer system.
+ 
+A sufficiently powerful PSU is essential in a high-performance workstation because components such as the CPU and GPU can have significant power requirements. The 850W capacity provides power for the system's components while also allowing additional capacity for other hardware within the computer.
+ 
+---
+ 
+## Overall System
+ 
+Overall, these components are intended to create a high-performance professional workstation. The system combines strong processing and graphical capabilities with substantial storage, wireless network connectivity, effective cooling, and an appropriately rated power supply.
+ 
+
 
