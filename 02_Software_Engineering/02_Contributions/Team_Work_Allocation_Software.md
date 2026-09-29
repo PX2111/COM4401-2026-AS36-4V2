@@ -16,7 +16,7 @@
 
 | Member | Stage / area owned | What they'll deliver |
 |--------|--------------------|----------------------|
-| | Analysis | Requirements list and IPO (Input–Process–Output) chart |
+| Pandeli,Wayne| Analysis | Requirements list and IPO (Input–Process–Output) chart |
 |Brian| Design | Flowchart / pseudocode and test plan design |
 |Henry| Build | Working Flowgorithm solution matching the design |
 | | Testing | Test table run with normal, abnormal and extreme data |
