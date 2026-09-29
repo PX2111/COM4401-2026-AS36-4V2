@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Prototype"/>
+        <attribute name="authors" value="HM11CRT"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-09-29 01:04:10 PM"/>
+        <attribute name="created" value="SE0xMUNSVDtBTVRDMjEzLTA3OzIwMjYtMDktMjk7MDk6Mjg6NTYgQU07MjM2MA=="/>
+        <attribute name="edited" value="SE0xMUNSVDtBTVRDMjEzLTA3OzIwMjYtMDktMjk7MDE6MDQ6MTAgUE07MTsyNDU5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="Setup Variables"/>
+            <declare name="customerDetails" type="String" array="True" size="3"/>
+            <declare name="NumOfPizza" type="Integer" array="False" size=""/>
+            <declare name="SizeOfPizzas" type="Integer" array="True" size="6"/>
+            <declare name="NumOfToppings" type="Integer" array="True" size="6"/>
+            <declare name="IsDelivery" type="Boolean" array="False" size=""/>
+            <comment text="One Vars are set, Call GetCustomerDetails Subroutine. &#13;&#10;"/>
+            <call expression="getCustomerDetails(customerDetails)&#13;&#10;"/>
+            <comment text="This sets the variable of 'NumOfPizza' using the 'getNumPizzas' subroutine"/>
+            <assign variable="NumOfPizza" expression="getNumPizzas()"/>
+            <call expression="pizzaDetails(NumOfPizza,SizeOfPizzas[5],NumOfToppings[5])"/>
+            <assign variable="IsDelivery" expression="checkDelivery()"/>
+            <comment text="Display Bill&#13;&#10;"/>
+            <call expression="displayBill"/>
+        </body>
+    </function>
+    <function name="checkDelivery" type="Boolean" variable="Check">
+        <parameters/>
+        <body>
+            <declare name="Check" type="Boolean" array="False" size=""/>
+            <output expression="&quot;Is this order going to be delivered? Y/N&quot;" newline="True"/>
+            <input variable="Check"/>
+        </body>
+    </function>
+    <function name="getCustomerDetails" type="None" variable="">
+        <parameters>
+            <parameter name="customerDetails" type="String" array="True"/>
+        </parameters>
+        <body>
+            <comment text="This subroutine sets the details as such: &#13;&#10;CustomerDetails[0]= Name&#13;&#10;CustomerDetails[1]= Address&#13;&#10;CustomerDetails[2]= Phone Number&#13;&#10;"/>
+            <declare name="assign" type="String" array="True" size="3"/>
+            <assign variable="assign[0]" expression="&quot;Name&quot;"/>
+            <assign variable="assign[1]" expression="&quot;Address&quot;"/>
+            <assign variable="assign[2]" expression="&quot;Phone Num&quot;"/>
+            <comment text="Settup a for loop that itterates through customer details gathering the data for each feild recursively"/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <for variable="i" start="0" end="2" direction="inc" step="1">
+                <output expression="&quot;Enter &quot; &amp; assign[i] &amp; &quot;  :&quot;" newline="True"/>
+                <input variable="customerDetails[i]"/>
+            </for>
+        </body>
+    </function>
+    <function name="getNumPizzas" type="Integer" variable="noOfPizzas">
+        <parameters/>
+        <body>
+            <declare name="noOfPizzas" type="Integer" array="False" size=""/>
+            <assign variable="noOfPizzas" expression="0"/>
+            <output expression="&quot;Enter number of pizzas(max 6)&quot;" newline="True"/>
+            <while expression="noOfPizzas &lt; 1 OR noOfPizzas &gt; 6">
+                <input variable="noOfPizzas"/>
+                <if expression="noOfPizzas &lt; 1 OR noOfPizzas &gt; 6">
+                    <then>
+                        <output expression="&quot;Error, must order minimum 1 and maximum 6 pizzas&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <output expression="&quot;Ok, you've selected &quot; &amp; noOfPizzas &amp; &quot; pizzas.&quot;" newline="True"/>
+                    </else>
+                </if>
+            </while>
+        </body>
+    </function>
+    <function name="PizzaDetails" type="None" variable="">
+        <parameters>
+            <parameter name="NumOfPizza" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="count" type="Integer" array="False" size=""/>
+            <assign variable="count" expression="NumOfPizza"/>
+            <declare name="assign" type="String" array="True" size="count"/>
+            <assign variable="assign[0]" expression="&quot;Name&quot;"/>
+            <assign variable="assign[1]" expression="&quot;Address&quot;"/>
+            <assign variable="assign[2]" expression="&quot;Phone Num&quot;"/>
+            <for variable="i" start="0" end="2" direction="inc" step="1">
+                <output expression="&quot;Enter &quot; &amp; assign[i] &amp; &quot;  :&quot;" newline="True"/>
+                <input variable="customerDetails[i]"/>
+            </for>
+            <declare name="i" type="Integer" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
