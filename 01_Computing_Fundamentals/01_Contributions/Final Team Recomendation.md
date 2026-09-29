@@ -7,4 +7,4 @@
 | Total hardware refresh | 12 | - | - | Against £26,000 hardware-only budget|
 
 
-**# Ethics **
+# Ethics 
