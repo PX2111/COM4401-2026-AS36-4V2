@@ -25,3 +25,27 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/uKt9rLDwN?share=t
 #Step by step justification of each component 
 ## case 
 I went for this case as it does well to hold and protect the components of the computer this is suitable and works well for the role because the assistant's dont need a big workstation with loads of other components. 
+
+## CPU
+The CPU takes in instructions and helps to run programs, This CPU works well fir the administrative assistant as it can handle the basic tasks needed for the role such as emails,word documents, regular web browsing and spreadsheets.
+
+## Motherboard 
+The motherboard connects different areas of the computer together. Having built in wifi is proven useful as the administrative assistant needs needs to be able to connect to the company's network and internet.
+
+## GPU
+The GPU processes the graphics and the images that are shown on the monitor. This graphics card is actually more powerful than needed for the administrative assistant because the role dosen't require CAD, any advanced graphic works or 3D modelling.
+
+## RAM 
+RAM allows for the computer to be able to run programs and keep information available while being used, 16GB will be good enough for this role as it allows multiple programs for example, emails, Word and just your regular web browser to be used at the same time. 
+
+## CPU Cooler 
+The CPU cooler removes heat from the processor and helps to try stop it from getting too hot, This is quite important because the computer needs to retain stable while being used for work.
+
+## Storage
+The SSD is used to store files, programs and the operating system, 1TB should be able to provide enough space for documents, spreadsheets and other work files. An NVMe SSD also helps the computer load files quickly and load programs.
+
+## Power Supply 
+The power supply gives electricity to the computer components. This needs to have enough power for the system to run, 750w is more than the role would essentially need so again this will be fine. 
+
+## Overall Price
+The overall price for this build was $889.64 which is under the $950 budget given for the role, this build here stays within the company's budget but can also easily handle the everyday tasks needed for the role of the administrative assistant, if anything some of the components id say are actually more powerful than needed. All in all the build fulfils good performance while still being under the budget even though its not necessary. 
