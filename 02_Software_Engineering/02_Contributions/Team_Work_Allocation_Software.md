@@ -17,7 +17,7 @@
 | Member | Stage / area owned | What they'll deliver |
 |--------|--------------------|----------------------|
 | | Analysis | Requirements list and IPO (Input–Process–Output) chart |
-| | Design | Flowchart / pseudocode and test plan design |
+|Henry| Design | Flowchart / pseudocode and test plan design |
 |Brian| Build | Working Flowgorithm solution matching the design |
 | | Testing | Test table run with normal, abnormal and extreme data |
 
