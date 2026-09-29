@@ -35,9 +35,9 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Project Manager build (BuildCores + peripherals) |RA |CI |CI |CI |
 | Architect / CAD Designer build (BuildCores + peripherals) |CI |CI |RA |CI |
 | 3D Visualisation Specialist build (BuildCores + peripherals) | CI| RA| CI| CI|
-| Component justifications (role suitability & value) | | | | |
+| Component justifications (role suitability & value) |RA |RA |RA |RA |
 | Pricing evidence (screenshots, links, date checked) |RA|RA|RA|RA|
-| Combined budget & comparison table | | | | |
+| Combined budget & comparison table | | | |RA |
 | Final team recommendation | | | | |
 | Ethical / responsible purchasing commentary | | | | |
 
