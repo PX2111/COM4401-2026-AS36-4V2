@@ -7,7 +7,8 @@
 | 3D Visualisation Specialist | 2 | £3,570.26 | £7,140.52 | Under £7,200 |
 | Total hardware refresh | 12 | - | £19,964.94 | Against £26,000 hardware-only budget|
 
-*software and OS licensing are managed separately.
+*software and OS licensing are managed separately
 
 # Ethics 
 In terms of ethics... tbd
+the data from the client will be handled ethically and without violating GDPR or 
