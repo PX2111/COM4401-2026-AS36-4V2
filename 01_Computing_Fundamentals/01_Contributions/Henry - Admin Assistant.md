@@ -43,7 +43,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/DKb47fGGN?share=t
 
 #### CPU Cooler
 * **Model:** AMD Wraith Stealth Socket AM4
-* **Justification:** I opted for this highly reviewed budget CPU fan to prevent the processor from overheating. It is inexpensive, reliable, and user reviews frequently praise its exceptionally quiet operation. it would be perfect for the job role as the workload for the cpu won't be too bad even with multitasking.
+* **Justification:** I opted for this highly reviewed budget CPU fan to prevent the processor from overheating. It is inexpensive, reliable, and user reviews frequently praise its exceptionally quiet operation. it would be perfect for the job role as the workload for the CPU won't be too bad even with multitasking.
 ---
 
 #### Storage
