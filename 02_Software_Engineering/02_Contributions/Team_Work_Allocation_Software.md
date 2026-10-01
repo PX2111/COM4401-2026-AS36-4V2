@@ -29,18 +29,18 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Member 1 | Member 2 | Member 3 | Member 4 |
-|------|----------|----------|----------|----------|
-| Requirements analysis (what the program must do) | | | | |
-| IPO chart (Input – Process – Output) | | | | |
-| Flowchart / pseudocode design | | | | |
-| Test plan (normal, abnormal, extreme data) | | | | |
-| Flowgorithm build (variables, input, processing) | | | | |
-| Flowgorithm build (decisions, loops, output) | | | | |
-| Validation / error handling | | | | |
-| Testing against the plan & recording results | | | | |
-| Deployment notes (how it would be rolled out) | | | | |
-| Ethical / professional considerations write-up | | | | |
-| Final team walkthrough & consistency check | | | | |
+| Task | Wayne | Brian | Henry | Pandeli | Haneef |
+|------|----------|----------|----------|----------|---------|
+| Requirements analysis (what the program must do) | | | | | |
+| IPO chart (Input – Process – Output) | | | | | |
+| Flowchart / pseudocode design | | | | | |
+| Test plan (normal, abnormal, extreme data) | | | | | |
+| Flowgorithm build (variables, input, processing) | | | | | |
+| Flowgorithm build (decisions, loops, output) | | | | | |
+| Validation / error handling | | | | | |
+| Testing against the plan & recording results | | | | | |
+| Deployment notes (how it would be rolled out) | | | | | |
+| Ethical / professional considerations write-up | | | | | |
+| Final team walkthrough & consistency check | | | | | |
 
 > Columns are the team members — replace the headers with names. Add or remove a column for a 3- or 5-person team, and make sure every stage (analysis → design → build → test → deploy) is owned by someone.
