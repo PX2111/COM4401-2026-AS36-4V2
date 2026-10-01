@@ -23,7 +23,7 @@ BuildCores Parts List: [Link](https://uk.buildcores.com/builds/uKt9rLDwN?share=t
 
 
 #Step by step justification of each component 
-## case 
+## Case 
 I went for this case as it does well to hold and protect the components of the computer this is suitable and works well for the role because the assistant's dont need a big workstation with loads of other components. 
 
 ## CPU
