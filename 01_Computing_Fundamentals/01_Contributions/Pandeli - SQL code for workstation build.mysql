@@ -11,7 +11,7 @@ VALUES
 -- =========================================
 
 INSERT INTO BuildItems
-(BuildID, HardwareCategory, ItemName, Specification, Cost)
+(3, HardwareCategory, ItemName, Specification, Cost)
 VALUES
 (3, 'Corsair 3200D RS Black',
 59.99),
