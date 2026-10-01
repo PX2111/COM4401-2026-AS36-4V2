@@ -22,7 +22,7 @@ VALUES
 (3, 'ASUS PRIME B760-PLUS',
 114.99),
 
-(<BUILD_ID>, 'GPU',
+(3, 'GPU',
 'N/A',
 'N/A',
 0),
