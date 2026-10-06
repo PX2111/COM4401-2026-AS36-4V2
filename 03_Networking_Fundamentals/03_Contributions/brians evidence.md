@@ -40,3 +40,24 @@ i then tested if i can connect to the internal server by the DNS of the server
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6d4ad050-bd90-4320-9dd8-d4f17751a4c9" />
 
 as you can see in the image this also worked
+
+i then did ping tests to the external server and as you can see in the screenshot they were all successful
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/54ff6896-cc53-44de-85c8-d052d2822053" />
+
+i then did external web connection tests via IP and the domain name and both tests were successful
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/613b6d41-88e5-4336-8c9d-58e5fd7a379b" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8b20a43c-d6a3-4438-b0ae-6f91d4783ff9" />
+
+explaining protocols and concepts
+
+TCP/IP: TCP/IP stands for transmission control protocol/interal protocol, to explain it simply, it is the foundation set of rules/stages of communication computers need to take whenever data is being manipulated online, it is how data is broken down, addressed, transmitted, routed and then received accross the internet
+<img width="1065" height="837" alt="image" src="https://github.com/user-attachments/assets/3863906f-6d29-4000-bdd6-1d305b0bac59" />
+
+
+IP addressing: IP stands for internet protocol, and to put it simply, every device that can connect and use the internet, needs to have a set IP address, that identifies the device so that it can be seen and communicated with devices that also use the internet
+<img width="898" height="464" alt="image" src="https://github.com/user-attachments/assets/af7b671b-cffe-4d3d-a0ea-a4a7e406d169" />
+
+DNS: DNS stands for domain name server, it is the "name" that is connected to a devices IP address and allows other devices to connect with the IP address without actually knowing what the IP address is, in the example of the office network, rather than needing to type out the IP address of the cloud server, which is 203.0.113.10, a client (device trying to communicate with server) can use the domain name server to connect with the server instead, in the example of the office network the domain name server is cloud.archstudio.example
+
+gateway: a gateway,
