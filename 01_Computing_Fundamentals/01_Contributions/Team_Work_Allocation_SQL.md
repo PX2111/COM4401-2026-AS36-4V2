@@ -15,10 +15,11 @@
 
 | Member | Build / area owned | What they'll deliver |
 |--------|--------------------|----------------------|
-| Henry | Administrative Assistant build | |
-| Pandeli | Project Manager build | |
-| Brian | Architect / CAD Designer build | |
-| Haneef | 3D Visualisation Specialist build | |
+| Henry | Administrative Assistant build 1 + BuildItems table | Data for Admin build 1 and BuildItems Table |
+| Wayne | Administrative Assistant build 2 + EmployeeRoles table | Data for Admin build 2 and EmployeeRoles Table |
+| Pandeli | Project Manager build + Recommendations table | Data for Project Manager build and BuildItems Table |
+| Brian | Architect / CAD Designer build + | Data for Architect / CAD Designer build and BuildItems Table |
+| Haneef | 3D Visualisation Specialist build + Merging the builds | Data 3D Visualisation Specialist build and merging the sql tables together |
 
 > Add or remove a row for a 3- or 5-person team. Shared tasks (final recommendation, budget check, ethics write-up) can be added as extra rows.
 
@@ -28,13 +29,13 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Pandeli | Haneef | Brian | Henry |
-|------|----------|----------|----------|----------|
-| Database schema (tables, keys, data types)                 | CI | CI | CI | CI |
-| EmployeeRoles table                                        | CI | CI | CI | CI |
-| WorkstationBuilds table                                    | CI | CI | CI | CI |
-| BuildItems table                                           | CI | CI | CI | RA |
-| Recommendations table                                      | CI | CI | CI | CI |
-| Data integrity rules (PKs, FKs, NOT NULL, numeric costs)   | | | | |
-| Ethical / professional considerations write-up             | | | | |
-| Final team recommendation & budget check                   | | | | |
+| Task | Pandeli | Haneef | Brian | Henry | Wayne |
+|------|----------|----------|----------|----------|----------|
+| Database schema (tables, keys, data types)                 | CI | CI | CI | CI | CI |
+| EmployeeRoles table                                        | CI | CI | CI | CI | RA |
+| WorkstationBuilds table                                    | CI | CI | CI | CI | CI |
+| BuildItems table                                           | CI | CI | CI | RA | CI |
+| Recommendations table                                      | RA | CI | CI | CI | CI |
+| Data integrity rules (PKs, FKs, NOT NULL, numeric costs)   | | | | | |
+| Ethical / professional considerations write-up             | | | | | |
+| Final team recommendation & budget check                   | | | | | |
