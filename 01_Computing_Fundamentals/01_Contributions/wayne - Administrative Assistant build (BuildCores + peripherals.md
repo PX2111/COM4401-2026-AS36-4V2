@@ -1,6 +1,5 @@
 # Admin Assistant build (BuildCores + peripherals)
 
-BuildCore Parts [List](https://uk.buildcores.com/builds/uKt9rLDwN?share=true)
 
 
 BuildCores Parts List: [Link](https://uk.buildcores.com/builds/uKt9rLDwN?share=true)
