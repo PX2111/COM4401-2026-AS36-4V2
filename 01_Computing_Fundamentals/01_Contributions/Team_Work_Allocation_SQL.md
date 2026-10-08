@@ -31,11 +31,11 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | Pandeli | Haneef | Brian | Henry | Wayne |
 |------|----------|----------|----------|----------|----------|
-| Database schema (tables, keys, data types)                 | CI | CI | CI | CI | CI |
-| EmployeeRoles table                                        | CI | CI | CI | CI | RA |
-| WorkstationBuilds table                                    | CI | CI | CI | CI | CI |
-| BuildItems table                                           | CI | CI | CI | RA | CI |
-| Recommendations table                                      | RA | CI | CI | CI | CI |
+| Database schema (tables, keys, data types)                 | CI | RA | CI | CI | CI |
+| EmployeeRoles table                                        | CI | CA | CI | CI | RA |
+| WorkstationBuilds table                                    | CI | CA | RA | CI | CI |
+| BuildItems table                                           | CI | CA | CI | RA | CI |
+| Recommendations table                                      | RA | CA | CI | CI | CI |
 | Data integrity rules (PKs, FKs, NOT NULL, numeric costs)   | | | | | |
 | Ethical / professional considerations write-up             | | | | | |
 | Final team recommendation & budget check                   | | | | | |
