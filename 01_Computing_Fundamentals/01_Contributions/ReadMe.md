@@ -34,7 +34,7 @@ listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visual
 The final team recommendation ties together each members judgement on each build and justifies the collective decision. 
 
 ## SQL Table of builds
-Each table was built separately by a different team member and put together and linked with foreign keys by another, all tables were filled with the prerequisite data from each team member to create a full MySQL table. Each table is listed separately and ultimately listed at the bottom is the fully completed one.
+Each table was built separately and precisely to the specifications of the flowchart design bellow by a different team member and put together and linked with foreign keys by another, all tables were filled with the prerequisite data from each team member to create a full MySQL table. Each table is listed separately and ultimately listed at the bottom is the fully completed one.
 
 
 <img width="1090" height="760" alt="image" src="https://github.com/user-attachments/assets/5b96be25-9c6e-44a8-a236-8d5257cfe4f5" />
