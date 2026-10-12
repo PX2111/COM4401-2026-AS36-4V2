@@ -12,7 +12,7 @@ WELCOME TO THE PAGE - This is just placeholder text for the readme explaning and
 [Admin assistant build 2 overview](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/wayne%20-%20Administrative%20Assistant%20build%20BuildCores%20+%20peripherals.md) - Wayne
 
 ---
-Architect / CAD Designer build overview - Brian
+[Architect / CAD Designer build overview](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Brian%20-%20architect%20and%20CAD%20computer%20builds.md) - Brian
 
 ---
 
