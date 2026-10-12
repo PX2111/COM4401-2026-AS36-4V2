@@ -45,7 +45,7 @@ Each table was built separately by a different team member and put together and 
 [Recommendations table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20SQL%20%20file%20for%20Recommendations%20Table.mysql) - Pandeli
 
 --- 
-[WorkstationBuilds table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Brian%20-%20SQL%20code%20for%20the%20workstation%20builds.mysql)- Brian
+[WorkstationBuilds table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Brian%20-%20SQL%20code%20for%20the%20workstation%20builds.mysql) - Brian
 
 ---
 [BuildItems table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20BuildItems.mysql) - Henry
