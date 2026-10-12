@@ -1,6 +1,8 @@
 # Computing Fundamentals 
--
-This is the list of the 12 builds that Northwest Architecture Studio Ltd wants for their job roles that they came to require. Each subheading shows a different job role or build for that job role that was listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visualisation Specialist)
+
+This is the list of the 12 builds that Northwest Architecture Studio Ltd wants for their job roles that they came to require. Each subheading shows a different job role or build for that job role that was 
+listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visualisation Specialist)
+
 ---
 ## Builds for roles
 
