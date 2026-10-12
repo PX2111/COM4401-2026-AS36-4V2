@@ -36,6 +36,8 @@ The final team recommendation ties together each members judgement on each build
 ## SQL Table of builds
 Each table was built separately by a different team member and put together and linked with foreign keys by another, all tables were filled with the prerequisite data from each team member to create a full MySQL table. Each table is listed separately and ultimately listed at the bottom is the fully completed one.
 
+
+<img width="1090" height="760" alt="image" src="https://github.com/user-attachments/assets/5b96be25-9c6e-44a8-a236-8d5257cfe4f5" />
 [SQL Table Design Diagram](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20evidence%20diagram.md)
 
 ---
