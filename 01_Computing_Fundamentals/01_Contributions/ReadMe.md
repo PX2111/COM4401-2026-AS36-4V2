@@ -39,16 +39,16 @@ Each table was built separately by a different team member and put together and 
 [SQL Table Design Diagram](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20evidence%20diagram.md)
 
 ---
-[EmployeeRoles table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/wayne%20-%20employeeroles.mysql) - Wayne
+### [EmployeeRoles table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/wayne%20-%20employeeroles.mysql) - Wayne
 
 ---
-[Recommendations table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20SQL%20%20file%20for%20Recommendations%20Table.mysql) - Pandeli
+### [Recommendations table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20SQL%20%20file%20for%20Recommendations%20Table.mysql) - Pandeli
 
 --- 
-[WorkstationBuilds table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Brian%20-%20SQL%20code%20for%20the%20workstation%20builds.mysql) - Brian
+### [WorkstationBuilds table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Brian%20-%20SQL%20code%20for%20the%20workstation%20builds.mysql) - Brian
 
 ---
-[BuildItems table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20BuildItems.mysql) - Henry
+### [BuildItems table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20BuildItems.mysql) - Henry
 
 ---
 [Full SQL Tables](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20Linked%20Tables.sql) - Haneef
