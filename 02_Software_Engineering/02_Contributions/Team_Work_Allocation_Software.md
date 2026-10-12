@@ -31,14 +31,14 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | Wayne | Brian | Henry | Pandeli | Haneef |
 |------|----------|----------|----------|----------|---------|
-| Requirements analysis (what the program must do) | | | | | |
+| Requirements analysis (what the program must do) | RA | | | RA | |
 | IPO chart (Input – Process – Output) | | | | | |
 | Flowchart / pseudocode design | | | | | |
 | Test plan (normal, abnormal, extreme data) | | | | | |
 | Flowgorithm build (variables, input, processing) | | | RA | | |
 | Flowgorithm build (decisions, loops, output) | | | RA | | |
 | Validation / error handling | | | RA | | |
-| Testing against the plan & recording results | | | | | |
+| Testing against the plan & recording results | | | | |RA|
 | Deployment notes (how it would be rolled out) | | | | | |
 | Ethical / professional considerations write-up | | | | | |
 | Final team walkthrough & consistency check | | | | | |
