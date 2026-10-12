@@ -14,8 +14,11 @@ WELCOME TO THE PAGE - This is just placeholder text for the readme explaning and
 [Brian]() - 
 
 ---
+
 [Project Manager Build Overview](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20Project%20Manager%20Builds.md) - Project Manager Build Overview
+
 [Proof of parts for Project Manager build](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20Build%20Evidence.md) - Proof of Parts
+
 ---
 [Haneef](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20Linked%20Tables.sql) - 
 
