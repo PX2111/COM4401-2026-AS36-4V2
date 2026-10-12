@@ -3,9 +3,9 @@ WELCOME TO THE PAGE - This is just placeholder text for the readme explaning and
 
 ---
 # Builds
-[Henry](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20Admin%20Assistant.md) - Admin assistant Build 1 overview
+[Admin assistant Build 1 overview](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20Admin%20Assistant.md) - Henry
 
-[Henry]() - Proof of parts
+[Proof of parts for Admin Build 1]() - Henry
 
 ---
 [Wayne](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/wayne%20-%20Administrative%20Assistant%20build%20BuildCores%20+%20peripherals.md) - Admin assistant Build 2 overview
@@ -14,8 +14,8 @@ WELCOME TO THE PAGE - This is just placeholder text for the readme explaning and
 [Brian]() - 
 
 ---
-[Pandeli](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20Project%20Manager%20Builds.md) - Project Manager Build Overview
-[Pandeli](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20Build%20Evidence.md) - Proof of Parts
+[Project Manager Build Overview](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20Project%20Manager%20Builds.md) - Project Manager Build Overview
+[Proof of parts for Project Manager build](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Pandeli%20-%20Build%20Evidence.md) - Proof of Parts
 ---
 [Haneef](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20Linked%20Tables.sql) - 
 
