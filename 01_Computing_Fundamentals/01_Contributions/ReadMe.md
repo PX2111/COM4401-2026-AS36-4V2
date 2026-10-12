@@ -12,7 +12,7 @@ listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visual
 [Evidence of parts for Admin Build 1](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20Evidence%20for%20Build.md) - Henry
 
 ---
-## Administrative assistant build 2
+### Administrative assistant build 2
 [Admin assistant build 2 overview](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/wayne%20-%20Administrative%20Assistant%20build%20BuildCores%20+%20peripherals.md) - Wayne
 
 ---
