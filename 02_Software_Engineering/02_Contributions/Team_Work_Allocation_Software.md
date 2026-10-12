@@ -32,15 +32,15 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Task | Wayne | Brian | Henry | Pandeli | Haneef |
 |------|----------|----------|----------|----------|---------|
 | Requirements analysis (what the program must do) | RA | | | RA | |
-| IPO chart (Input – Process – Output) | | | | | |
-| Flowchart / pseudocode design | | | | | |
-| Test plan (normal, abnormal, extreme data) | | | | | |
+| IPO chart (Input – Process – Output) | RA | | | RA | |
+| Flowchart / pseudocode design | | RA | | | |
+| Test plan (normal, abnormal, extreme data) | | RA | | | |
 | Flowgorithm build (variables, input, processing) | | | RA | | |
 | Flowgorithm build (decisions, loops, output) | | | RA | | |
 | Validation / error handling | | | RA | | |
 | Testing against the plan & recording results | | | | |RA|
 | Deployment notes (how it would be rolled out) | | | | | |
 | Ethical / professional considerations write-up | | | | | |
-| Final team walkthrough & consistency check | | | | | |
+| Final team walk-through & consistency check | | | | | |
 
 > Columns are the team members — replace the headers with names. Add or remove a column for a 3- or 5-person team, and make sure every stage (analysis → design → build → test → deploy) is owned by someone.
