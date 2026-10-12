@@ -1,7 +1,7 @@
 # Computing Fundamentals 
 
 This is the list of the 12 builds that Northwest Architecture Studio Ltd wants for their job roles that they came to require. Each subheading shows a different job role or build for that job role that was 
-listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visualisation Specialist)
+listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visualisation Specialist) each built separately by a different team member.  
 
 ---
 ## Builds for roles
@@ -31,3 +31,8 @@ listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visual
 
 ---
 ## [Final Team Recommendation](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Final%20Team%20Recomendation.md)
+
+## SQL Table of builds
+Each table was built separately by a different team member and put together by another, all tables were filled with the prerequisite data from each team member to create a full MySQL table. Each table is listed separately and ultimately listed at the bottom is the fully completed one.
+
+[Workstation Builds table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20SQL%20code%20for%20the%20workstation%20builds.mysql) - Henry
