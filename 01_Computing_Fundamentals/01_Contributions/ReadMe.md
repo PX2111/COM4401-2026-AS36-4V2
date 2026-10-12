@@ -51,6 +51,6 @@ Each table was built separately by a different team member and put together and 
 ### [BuildItems table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20BuildItems.mysql) - Henry
 
 ---
-[Full SQL Tables](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20Linked%20Tables.sql) - Haneef
+### [Full SQL Tables](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20Linked%20Tables.sql) - Haneef
 
 ---
