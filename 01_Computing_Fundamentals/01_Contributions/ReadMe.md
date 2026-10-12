@@ -1,6 +1,5 @@
 # Computing Fundamentals
-WELCOME TO THE PAGE - This is just placeholder text for the readme explaning and linking to the work we did on this mini project as part of the assignment breif
-
+This is the list of the 12 builds that Northwest Architecture Studio Ltd wants for their job roles that they came to require. Each subheading shows a different job role or build for that job role that was listed (Admin Assistant, Cad Architect / Designer, Project Manager and 3D Visualisation Specialist)
 ---
 ## Builds for roles
 
