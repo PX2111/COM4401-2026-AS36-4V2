@@ -37,7 +37,6 @@ The final team recommendation ties together each members judgement on each build
 Each table was built separately by a different team member and put together by another, all tables were filled with the prerequisite data from each team member to create a full MySQL table. Each table is listed separately and ultimately listed at the bottom is the fully completed one.
 
 ###[SQL Table Design Diagram](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Haneef%20-%20evidence%20diagram.md)
-
 ---
 [Workstation Builds table](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/01_Computing_Fundamentals/01_Contributions/Henry%20-%20BuildItems.mysql) - Henry
 
