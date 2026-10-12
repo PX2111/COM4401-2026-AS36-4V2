@@ -18,7 +18,7 @@
 | Henry | Administrative Assistant build 1 + BuildItems table | Data for Admin build 1 and BuildItems Table |
 | Wayne | Administrative Assistant build 2 + EmployeeRoles table | Data for Admin build 2 and EmployeeRoles Table |
 | Pandeli | Project Manager build + Recommendations table | Data for Project Manager build and BuildItems Table |
-| Brian | Architect / CAD Designer build + | Data for Architect / CAD Designer build and BuildItems Table |
+| Brian | Architect / CAD Designer build + WorkStationBuilds table| Data for Architect / CAD Designer build and BuildItems Table |
 | Haneef | 3D Visualisation Specialist build + Merging the builds | Data 3D Visualisation Specialist build and merging the sql tables together |
 
 > Add or remove a row for a 3- or 5-person team. Shared tasks (final recommendation, budget check, ethics write-up) can be added as extra rows.
