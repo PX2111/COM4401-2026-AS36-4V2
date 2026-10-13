@@ -17,7 +17,7 @@
 
 | Member | Section owned | What they'll present |
 |--------|---------------|----------------------|
-| Haneef + Wayne | MP1 — Computing | Strongest evidence from the computing project |
+| Haneef | MP1 — Computing | Strongest evidence from the computing project |
 | Henry | MP2 — Software Engineering | Strongest evidence from the software project |
 | Pandeli | MP3 — Networking | Strongest evidence from the networking project |
 | Brian | MP4 — Cyber-Security | Strongest evidence from the cyber-security project |
