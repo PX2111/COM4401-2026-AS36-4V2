@@ -33,15 +33,15 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 
 | Task | Henry | Wayne | Haneef | Brian | Pandeli |
 |------|----|----|----|----|----|
-| Introduction (frame the portfolio as one story) | | | |Brian| |
-| MP1 Computing — section & evidence | | | | | |
-| MP2 Software Engineering — section & evidence | | | | | |
+| Introduction (frame the portfolio as one story) | | | |RA| |
+| MP1 Computing — section & evidence | | | |RA| |
+| MP2 Software Engineering — section & evidence |RA| | | | |
 | MP3 Networking — section & evidence | | | | | |
 | MP4 Cyber-Security — section & evidence | | | | | |
 | Live demonstration (open one artefact from the repo) | | | | | |
 | Backup demo recording (in case live fails) | | | | | |
 | Reflection & GAI-use statement | | | | | |
-| Conclusion (practical takeaways) | | | |Brian| |
+| Conclusion (practical takeaways) | | | |RA| |
 | Slides — design, consistency & visuals | | | | | |
 | Timing & rehearsal (keep within 15–20 min) | | | | | |
 | Q&A preparation (mock questions, who leads on what) | | | | | |
