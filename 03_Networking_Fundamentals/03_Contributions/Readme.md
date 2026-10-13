@@ -8,5 +8,7 @@ Here is each of our network for office builds. The whole document contains scree
 
 [Wayne - Office network full](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/03_Networking_Fundamentals/03_Contributions/Waynes%20Filius%20Work.fls)
 
+[Pandeli - Office Network full](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/03_Networking_Fundamentals/03_Contributions/Pandeli%20-%20filius%20project.fls)
+
 ---
 [Whole Document + evidence](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/03_Networking_Fundamentals/03_Contributions/Mini%20Project%203.pdf)
