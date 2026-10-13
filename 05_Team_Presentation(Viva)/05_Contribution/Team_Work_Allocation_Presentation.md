@@ -34,7 +34,7 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Task | Henry | Wayne | Haneef | Brian | Pandeli |
 |------|----|----|----|----|----|
 | Introduction (frame the portfolio as one story) | RA | | | RA | |
-| MP1 Computing — section & evidence | | | | RA | |
+| MP1 Computing — section & evidence | | | RA | | |
 | MP2 Software Engineering — section & evidence | RA | | | | |
 | MP3 Networking — section & evidence | | | | | |
 | MP4 Cyber-Security — section & evidence | | | | RA | |
