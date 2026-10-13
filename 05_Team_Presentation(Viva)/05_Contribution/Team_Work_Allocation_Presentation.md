@@ -17,9 +17,9 @@
 
 | Member | Section owned | What they'll present |
 |--------|---------------|----------------------|
-|| MP1 — Computing | Strongest evidence from the computing project |
+| Haneef + Wayne | MP1 — Computing | Strongest evidence from the computing project |
 | Henry | MP2 — Software Engineering | Strongest evidence from the software project |
-| | MP3 — Networking | Strongest evidence from the networking project |
+| Pandeli | MP3 — Networking | Strongest evidence from the networking project |
 | Brian | MP4 — Cyber-Security | Strongest evidence from the cyber-security project |
 | Whole Team | Intro, live demo & conclusion (whole team) | Opening, the live demonstration and the reflection |
 
