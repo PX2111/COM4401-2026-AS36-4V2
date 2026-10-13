@@ -18,10 +18,10 @@
 | Member | Section owned | What they'll present |
 |--------|---------------|----------------------|
 | | MP1 — Computing | Strongest evidence from the computing project |
-| | MP2 — Software Engineering | Strongest evidence from the software project |
+| Henry | MP2 — Software Engineering | Strongest evidence from the software project |
 | | MP3 — Networking | Strongest evidence from the networking project |
 | | MP4 — Cyber-Security | Strongest evidence from the cyber-security project |
-| | Intro, live demo & conclusion (whole team) | Opening, the live demonstration and the reflection |
+| Brian | Intro, live demo & conclusion (whole team) | Opening, the live demonstration and the reflection |
 
 > Every member must present a meaningful part — a member who does not present (without an approved reason) cannot pass this component. Introduction, live demo and conclusion are shared. Pick the single strongest piece of evidence per project rather than re-presenting the whole report. Aim for **15–20 minutes** with a sensible split across the team.
 
@@ -31,21 +31,21 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | M1 | M2 | M3 | M4 |
-|------|----|----|----|----|
-| Introduction (frame the portfolio as one story) | | | | |
-| MP1 Computing — section & evidence | | | | |
-| MP2 Software Engineering — section & evidence | | | | |
-| MP3 Networking — section & evidence | | | | |
-| MP4 Cyber-Security — section & evidence | | | | |
-| Live demonstration (open one artefact from the repo) | | | | |
-| Backup demo recording (in case live fails) | | | | |
-| Reflection & GAI-use statement | | | | |
-| Conclusion (practical takeaways) | | | | |
-| Slides — design, consistency & visuals | | | | |
-| Timing & rehearsal (keep within 15–20 min) | | | | |
-| Q&A preparation (mock questions, who leads on what) | | | | |
-| Final tidy of the GitHub portfolio before delivery | | | | |
+| Task | Henry | Wayne | Haneef | Brian | Pandeli |
+|------|----|----|----|----|----|
+| Introduction (frame the portfolio as one story) | | | |Brian| |
+| MP1 Computing — section & evidence | | | | | |
+| MP2 Software Engineering — section & evidence | | | | | |
+| MP3 Networking — section & evidence | | | | | |
+| MP4 Cyber-Security — section & evidence | | | | | |
+| Live demonstration (open one artefact from the repo) | | | | | |
+| Backup demo recording (in case live fails) | | | | | |
+| Reflection & GAI-use statement | | | | | |
+| Conclusion (practical takeaways) | | | |Brian| |
+| Slides — design, consistency & visuals | | | | | |
+| Timing & rehearsal (keep within 15–20 min) | | | | | |
+| Q&A preparation (mock questions, who leads on what) | | | | | |
+| Final tidy of the GitHub portfolio before delivery | | | | | |
 
 > Columns M1–M4 are the team members — replace the headers with names. Add or remove a column for a 3- or 5-person team, and make sure every mini-project, the live demo, and the intro/reflection/conclusion are each owned by someone.
 
