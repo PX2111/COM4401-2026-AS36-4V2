@@ -2,15 +2,15 @@
 This is the repository Directory for mini assignment 4 - Cyber security. Listed is the whole document as well as each segment inside said document.
 
 ---
-Haneef's Section - Passwords
+[Haneef's Section - Passwords](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Haneef%20-%20Passwords.pdf)
 
-Brian's Section - 2FA
+[Brian's Section - 2FA](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Brian%20-%20MFA.pdf)
 
-Henry's Section - Phishing
+[Henry's Section - Phishing](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Henry%20-%20Phishing.pdf)
 
-Wayne's Section - Safe Devices
+[Wayne's Section - Safe Devices](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Wayne%20-%20Safe%20Use%20of%20Devices.pdf)
 
-Pandeli's Section - Wi-Fi
+[Pandeli's Section - Wi-Fi](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Pandeli%20-%20Public%20Wi-fi.pdf)
 
 [Whole Document (pdf)](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Team4-Com4401-SoftwareEngineering.pdf)
 
