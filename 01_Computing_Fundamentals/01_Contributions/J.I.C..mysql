@@ -14,7 +14,7 @@ CREATE TABLE workstationBuilds (
     BuildName VARCHAR(100) NOT NULL,
     Source VARCHAR(50)
 ); 
---Builditems table
+-- Builditems table
 CREATE TABLE BuildItems (
   ItemID INT AUTO_INCREMENT PRIMARY KEY, 
   BuildID INTEGER,
@@ -106,37 +106,37 @@ INSERT INTO BuildItems (BuildID, HardwareCategory, ItemName, Specification, Cost
 
 -- 6. Verification
 -- I dont want to have to redo the querys that haneef has done because the evidence is already there, these are just the ones ive done myself
---Query 8
+-- Query 8
 SELECT 
-    wb.BuildName,
-    SUM(bi.Cost) AS TotalCost
-FROM workstationBuilds wb
-JOIN BuildItems bi ON wb.BuildID = bi.BuildID
-GROUP BY wb.BuildID, wb.BuildName
+    Buildname.BuildName,
+    SUM(Builditems.Cost) AS TotalCost
+FROM workstationBuilds Buildname
+JOIN BuildItems Builditems ON Buildname.BuildID = Builditems.BuildID
+GROUP BY Buildname.BuildID, Buildname.BuildName
 ORDER BY TotalCost DESC;
 
---Query 9
+-- Query 9
 SELECT 
-    wb.BuildName,
-    er.RoleName
-FROM workstationBuilds wb
-JOIN EmployeeRoles er ON wb.RoleID = er.RoleID;
+    Buildname.BuildName,
+    Rolename.RoleName
+FROM workstationBuilds Buildname
+JOIN EmployeeRoles Rolename ON Buildname.RoleID = Rolename.RoleID;
 
---Query10
+-- Query10
 SELECT 
-    bi.ItemName,
-    wb.BuildName,
-    er.RoleName
-FROM BuildItems bi
-JOIN workstationBuilds wb ON bi.BuildID = wb.BuildID
-JOIN EmployeeRoles er ON wb.RoleID = er.RoleID;
+    Builditems.ItemName,
+    Buildname.BuildName,
+    Rolename.RoleName
+FROM BuildItems Builditems
+JOIN workstationBuilds Buildname ON Builditems.BuildID = Buildname.BuildID
+JOIN EmployeeRoles Rolename ON Buildname.RoleID = Rolename.RoleID;
 
---Query11 (bonus ducks)
+-- Query11 (bonus ducks)
 SELECT 
-    er.RoleName,
-    SUM(bi.Cost) AS TotalHardwareSpend
-FROM EmployeeRoles er
-JOIN workstationBuilds wb ON er.RoleID = wb.RoleID
-JOIN BuildItems bi ON wb.BuildID = bi.BuildID
-GROUP BY er.RoleID, er.RoleName
+    Rolename.RoleName,
+    SUM(Builditems.Cost) AS TotalHardwareSpend
+FROM EmployeeRoles Rolename
+JOIN workstationBuilds Buildname ON Rolename.RoleID = Buildname.RoleID
+JOIN BuildItems Builditems ON Buildname.BuildID = Builditems.BuildID
+GROUP BY Rolename.RoleID, Rolename.RoleName
 ORDER BY TotalHardwareSpend DESC;
