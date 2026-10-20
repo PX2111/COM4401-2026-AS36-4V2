@@ -74,7 +74,7 @@ For every item, shows the item name, which build it is in, and which role that b
 
 <img width="1025" height="733" alt="image" src="https://github.com/user-attachments/assets/5ee396cf-8c84-4e12-82b1-cf55a6e29471" />
 
-## Query 11: Spend per role (challenge)
+## Query 11: Spend per role (challenge) (HM)
 <img width="366" height="154" alt="image" src="https://github.com/user-attachments/assets/91485596-ab81-453e-ba80-adb529814360" />
 
 Shows the total hardware cost grouped by role name.
