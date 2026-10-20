@@ -14,7 +14,9 @@ This is the Recommendation and Flowgorithm build for the 'Pennine Pizza' Pizzeri
 
 [Section 4 Testing](https://boltonuni-my.sharepoint.com/:w:/r/personal/as36_bolton_ac_uk/Documents/2026-27/1%20COM4401-%20Fundamentals%20of%20Computer%20Science%20and%20Academic%20Skills/5%20Resources/W2%20-%20Software%20Engineering/Collaborative%20Documents/Team4-COM4401-SoftwareEngineering.docx?d=w57d45ace4e97471ea682fd0d12f76138&csf=1&web=1&e=YdoVYX&nav=eyJoIjoiMTUxNDA0ODg1NiJ9) - Haneef
 
-[Pennine Pizza Recommendation Document](https://boltonuni-my.sharepoint.com/:w:/r/personal/as36_bolton_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7B57D45ACE-4E97-471E-A682-FD0D12F76138%7D&file=Team4-COM4401-SoftwareEngineering.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
+[Pennine Pizza Recommendation Local PDF](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/02_Software_Engineering/02_Contributions/Team4-Com4401-SoftwareEngineering.pdf)
+
+[Pennine Pizza Recommendation Online Document](https://boltonuni-my.sharepoint.com/:w:/r/personal/as36_bolton_ac_uk/_layouts/15/Doc.aspx?sourcedoc=%7B57D45ACE-4E97-471E-A682-FD0D12F76138%7D&file=Team4-COM4401-SoftwareEngineering.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
 
 ---
