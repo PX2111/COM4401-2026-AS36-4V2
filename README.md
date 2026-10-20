@@ -8,7 +8,7 @@ COM4401: Foundations of Computer Science and Academic Skills
 
 03 - [Networking Fundamentals](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/03_Networking_Fundamentals/03_Contributions/Readme) 
 
-04 - [Cybersecurity Report]()
+04 - [Cybersecurity Report](https://github.com/PX2111/COM4401-2026-AS36-4V2/tree/main/04_Cyber_Security_Awareness/04_Contributions)
 
 05 - [Team Presentation]()
 
