@@ -107,6 +107,30 @@ INSERT INTO BuildItems (BuildID, HardwareCategory, ItemName, Specification, Cost
 (4, 'Monitor', 'MSI MAG 272QPW QD-OLED X28', '26.5 inch, WQHD, 280Hz', 378.95);
 
 -- 6. Verification
+-- I dont want to have to redo the querys that haneef has done because the evidence is already there, these are just the ones ive done myself
+--Query 8
+SELECT 
+    wb.BuildName,
+    SUM(bi.Cost) AS TotalCost
+FROM workstationBuilds wb
+JOIN BuildItems bi ON wb.BuildID = bi.BuildID
+GROUP BY wb.BuildID, wb.BuildName
+ORDER BY TotalCost DESC;
+--Query 9
+SELECT 
+    wb.BuildName,
+    er.RoleName
+FROM workstationBuilds wb
+JOIN EmployeeRoles er ON wb.RoleID = er.RoleID;
+--Query10
+SELECT 
+    bi.ItemName,
+    wb.BuildName,
+    er.RoleName
+FROM BuildItems bi
+JOIN workstationBuilds wb ON bi.BuildID = wb.BuildID
+JOIN EmployeeRoles er ON wb.RoleID = er.RoleID;
+--Query11 (bonus ducks)
 SELECT 
     er.RoleName,
     SUM(bi.Cost) AS TotalHardwareSpend
