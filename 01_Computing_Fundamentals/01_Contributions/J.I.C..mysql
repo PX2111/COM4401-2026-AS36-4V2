@@ -12,8 +12,7 @@ CREATE TABLE workstationBuilds (
     BuildID INT PRIMARY KEY,
     RoleID INT NOT NULL,
     BuildName VARCHAR(100) NOT NULL,
-    Source VARCHAR(50),
-    CONSTRAINT FK_WorkstationBuilds_Role FOREIGN KEY (RoleID) REFERENCES EmployeeRoles(RoleID)
+    Source VARCHAR(50)
 ); 
 
 CREATE TABLE BuildItems (
@@ -22,8 +21,7 @@ CREATE TABLE BuildItems (
   HardwareCategory VARCHAR(50) NOT NULL,
   ItemName VARCHAR(100) NOT NULL,
   Specification VARCHAR(150) NOT NULL,
-  Cost DECIMAL(8,2) NOT NULL,
-  CONSTRAINT FK_BuildItems_Build FOREIGN KEY (BuildID) REFERENCES workstationBuilds(BuildID)
+  Cost DECIMAL(8,2) NOT NULL
 );
 
 CREATE TABLE Recommendations (
