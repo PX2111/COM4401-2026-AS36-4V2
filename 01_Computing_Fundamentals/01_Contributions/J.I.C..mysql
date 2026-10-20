@@ -114,12 +114,14 @@ FROM workstationBuilds wb
 JOIN BuildItems bi ON wb.BuildID = bi.BuildID
 GROUP BY wb.BuildID, wb.BuildName
 ORDER BY TotalCost DESC;
+
 --Query 9
 SELECT 
     wb.BuildName,
     er.RoleName
 FROM workstationBuilds wb
 JOIN EmployeeRoles er ON wb.RoleID = er.RoleID;
+
 --Query10
 SELECT 
     bi.ItemName,
@@ -128,6 +130,7 @@ SELECT
 FROM BuildItems bi
 JOIN workstationBuilds wb ON bi.BuildID = wb.BuildID
 JOIN EmployeeRoles er ON wb.RoleID = er.RoleID;
+
 --Query11 (bonus ducks)
 SELECT 
     er.RoleName,
