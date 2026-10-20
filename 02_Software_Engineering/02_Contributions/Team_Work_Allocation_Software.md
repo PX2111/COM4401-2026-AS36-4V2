@@ -38,7 +38,7 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Flowgorithm build (variables, input, processing) | | | RA | | |
 | Flowgorithm build (decisions, loops, output) | | | RA | | |
 | Validation / error handling | | | RA | | |
-| Testing against the plan & recording results | | | | |RA|
+| Testing against the plan & recording results | | RA | | ||
 | Deployment notes (how it would be rolled out) | | | | | |
 | Ethical / professional considerations write-up | | | | | |
 | Final team walk-through & consistency check | | | | | |
