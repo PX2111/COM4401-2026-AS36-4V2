@@ -54,28 +54,32 @@ Add together the cost of every item in build number 1.
 <img width="173" height="135" alt="image" src="https://github.com/user-attachments/assets/16d31989-8fbb-4cba-855d-3074ff6b0b51" />
 
 ## Query 8: Cost of every build (HM)
-<img width="375" height="149" alt="image" src="https://github.com/user-attachments/assets/97c885c4-367a-4106-b898-32bd91d97528" />
+
+<img width="481" height="130" alt="image" src="https://github.com/user-attachments/assets/178f7075-a51f-4f1f-a399-61ac1b9884af" />
 
 Shows the total cost of each build, most expensive first. 
 
 <img width="447" height="192" alt="{14F1CB19-13C6-4808-9A54-1F90A4F87F33}" src="https://github.com/user-attachments/assets/fa8909ee-cb00-46f2-adc7-9cd2969190d4" />
 
 ## Query 9: Which role is each build for? (HM)
-<img width="423" height="110" alt="image" src="https://github.com/user-attachments/assets/086bdfde-dcb7-4b5e-9401-ee0119a3b53b" />
+
+<img width="476" height="116" alt="{14AA4161-F47E-4EB7-89F0-8483C6963055}" src="https://github.com/user-attachments/assets/62dbea21-b29b-4fa9-83c9-f6bd0a9cd318" />
 
 Show each build's name next to the name of the role it belongs to, Links both tables together with the JOIN keyword
 
 <img width="643" height="175" alt="image" src="https://github.com/user-attachments/assets/61aa2cb6-b1b1-41f3-aa32-619c32dc21d7" />
 
 ## Query 10: Items with their build and role (HM)
-<img width="380" height="136" alt="image" src="https://github.com/user-attachments/assets/c39238b8-688b-431a-90ec-2ca48637fdd8" />
+
+<img width="527" height="141" alt="{F67A5A0A-BEC3-4CE7-855A-0EAEE964E4F7}" src="https://github.com/user-attachments/assets/5a5bab15-8427-4316-a15e-818edc27bbb9" />
 
 For every item, shows the item name, which build it is in, and which role that build is for. This query links 3 of the tables together.
 
 <img width="1025" height="733" alt="image" src="https://github.com/user-attachments/assets/5ee396cf-8c84-4e12-82b1-cf55a6e29471" />
 
 ## Query 11: Spend per role (challenge) (HM)
-<img width="366" height="154" alt="image" src="https://github.com/user-attachments/assets/91485596-ab81-453e-ba80-adb529814360" />
+
+<img width="502" height="162" alt="image" src="https://github.com/user-attachments/assets/bad20f9b-ea9d-47cd-a047-7b4029bdb951" />
 
 Shows the total hardware cost grouped by role name.
 
