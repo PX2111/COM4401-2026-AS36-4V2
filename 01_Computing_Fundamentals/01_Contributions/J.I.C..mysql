@@ -7,14 +7,14 @@ CREATE TABLE EmployeeRoles(
   PerfromanceNeed VARCHAR(100),
   BudgetPerUnit DECIMAL(8,2) NOT NULL 
 );
--- Contraints must be applied in order for the tables to function
+-- WorkstationBuilds table
 CREATE TABLE workstationBuilds (
     BuildID INT PRIMARY KEY,
     RoleID INT NOT NULL,
     BuildName VARCHAR(100) NOT NULL,
     Source VARCHAR(50)
 ); 
-
+--Builditems table
 CREATE TABLE BuildItems (
   ItemID INT AUTO_INCREMENT PRIMARY KEY, 
   BuildID INTEGER,
@@ -23,7 +23,7 @@ CREATE TABLE BuildItems (
   Specification VARCHAR(150) NOT NULL,
   Cost DECIMAL(8,2) NOT NULL
 );
-
+-- Recommendations Table
 CREATE TABLE Recommendations (
     RecommendationID INT PRIMARY KEY,
     RoleID INT,
@@ -56,7 +56,7 @@ INSERT INTO workstationBuilds (BuildID, RoleID, BuildName, Source) VALUES
 (3, 2, 'Project Manager Business Rig', 'Personal Build'),
 (4, 3, 'CAD Designer Architect Build', 'Personal Build');
 
--- 5. Insert All Build Items
+-- Inserting All Build Items into the BuildItems table
 -- BUILD 1 ITEMS
 INSERT INTO BuildItems (BuildID, HardwareCategory, ItemName, Specification, Cost) VALUES
 (1, 'Case', 'Lian Li O11 Dynamic Mini V2 ATX Mini Tower Black', 'Tempered Glass Side Panel', 75.00),
