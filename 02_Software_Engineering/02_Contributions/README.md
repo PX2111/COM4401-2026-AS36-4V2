@@ -6,7 +6,7 @@ This is the Recommendation and Flowgorithm build for the 'Pennine Pizza' Pizzeri
 [Flowgorithm Build](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/02_Software_Engineering/02_Contributions/PizzaOrderHandler.fprg) - Henry
 
 ---
-[Section 1 Analysis](https://boltonuni-my.sharepoint.com/:w:/r/personal/as36_bolton_ac_uk/Documents/2026-27/1%20COM4401-%20Fundamentals%20of%20Computer%20Science%20and%20Academic%20Skills/5%20Resources/W2%20-%20Software%20Engineering/Collaborative%20Documents/Team4-COM4401-SoftwareEngineering.docx?d=w57d45ace4e97471ea682fd0d12f76138&csf=1&web=1&e=UhvTHU&nav=eyJoIjoiNzM4NjkyNzA3In0%3D) - Pandeli + Wayne
+[Section 1 Analysis](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/02_Software_Engineering/02_Contributions/Pandeli%20%2B%20Wayne%20-%20Analysis.pdf) - Pandeli + Wayne
 
 [Section 2 Design](https://boltonuni-my.sharepoint.com/:w:/r/personal/as36_bolton_ac_uk/Documents/2026-27/1%20COM4401-%20Fundamentals%20of%20Computer%20Science%20and%20Academic%20Skills/5%20Resources/W2%20-%20Software%20Engineering/Collaborative%20Documents/Team4-COM4401-SoftwareEngineering.docx?d=w57d45ace4e97471ea682fd0d12f76138&csf=1&web=1&e=H1Rcyg&nav=eyJoIjoiNjc4NjM0NDc1In0%3D) - Brian
 
