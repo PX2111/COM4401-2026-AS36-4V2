@@ -1,4 +1,4 @@
-<img width="428" height="773" alt="{945C37D7-2925-4DAF-9896-6D0012AC96D7}" src="https://github.com/user-attachments/assets/9256634b-4699-4668-a68b-0d210fca419c" /># Final Team Recomendation
+# Final Team Recomendation
 | Role | Quantity | Hardware cost per workstation | Total role hardware cost | Budget position |
 | :--- | :--- | :--- | :--- | :--- |
 | Administrative Assistant | 3 | £406.88 | £1,220.64 | Under £2,850 |
