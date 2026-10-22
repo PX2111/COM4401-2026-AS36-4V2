@@ -105,7 +105,7 @@ INSERT INTO BuildItems (BuildID, HardwareCategory, ItemName, Specification, Cost
 (4, 'Monitor', 'MSI MAG 272QPW QD-OLED X28', '26.5 inch, WQHD, 280Hz', 378.95);
 
 -- 6. Verification
--- I dont want to have to redo the querys that haneef has done because the evidence is already there, these are just the ones ive done myself
+
 -- Query 8
 SELECT 
     Buildname.BuildName,
