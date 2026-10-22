@@ -18,6 +18,6 @@ This is the repository Directory for mini assignment 4 - Cyber security. Listed 
 
 ---
 
-[Whole Document (pdf)](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Team4-Com4401-Cybersecurity-V3.pdf)
+[Whole Document (pdf)](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Cybersecurity%20Awareness%20Doc%20V4.pdf)
 
-[Whole Document (backup word)](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/CYBERSECURITY%20AWARENESSv2.docx)
+[Whole Document (backup word)](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Cybersecurity%20Awareness%20Doc%20v4.docx)
