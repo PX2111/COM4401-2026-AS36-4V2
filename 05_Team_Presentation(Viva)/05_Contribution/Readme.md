@@ -1,5 +1,5 @@
 ## Team Presentation (Viva)
-This is the directory for the team presentation.
+This is the directory for the team presentation. the links bellow show the PowerPoint we used for said presentation
 
 ---
 
