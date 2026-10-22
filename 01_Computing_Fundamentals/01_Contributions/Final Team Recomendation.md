@@ -24,7 +24,7 @@ Each section of the SQL for the build was created by the team member that design
 ## Project manager - Pandeli
 <img width="495" height="654" alt="image" src="https://github.com/user-attachments/assets/303fe7cc-634e-485c-bce1-6f04372af007" />
 
-##  - Haneef 
+## 3d visualisation specialist - Haneef 
 <img width="458" height="779" alt="{B8AEC6A1-3FD6-4F1A-8248-40D854E9276C}" src="https://github.com/user-attachments/assets/f391f873-ab09-40c5-b1ee-4d947ad25010" />
 
 ## Final table
@@ -36,3 +36,9 @@ Bellow is the final tables properly organised into one sql file,
 ## Queries 
 Here is a sample of the queries from the final table:
 <img width="395" height="385" alt="{3F8E2C81-5DBD-4D75-BAB5-1450AA23DFF3}" src="https://github.com/user-attachments/assets/65ad3f98-b83a-4f12-9b6a-014a39017f9b" />
+
+## Where the Extra money will go
+The builds we have created have only come up to 19,964.94 which means we have roughly ~£6000 pounds that could be spent on the peripherals for each station e.g. mouse, keyboards, monitors, etc. These peripherals would of course have to be accurately picked for each job role, so the cad designer would most likely require a better quality monitor than the admin assistant role.
+
+## Ethical considerations
+We made sure not to buy poor quality powers supplies that would waste electricity, contributing to environmental change. we also made sure to only buy parts from reputable sources that don't use forced labour to acquire parts or the rare earth minerals used to create said parts.
