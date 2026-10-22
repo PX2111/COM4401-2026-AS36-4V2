@@ -14,6 +14,8 @@ This is the repository Directory for mini assignment 4 - Cyber security. Listed 
 
 [Pandeli's Section - Wi-Fi](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Pandeli%20-%20Public%20Wi-fi.pdf)
 
+[Reference list](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Reference%20list.pdf)
+
 ---
 
 [Whole Document (pdf)](https://github.com/PX2111/COM4401-2026-AS36-4V2/blob/main/04_Cyber_Security_Awareness/04_Contributions/Team4-Com4401-Cybersecurity-V3.pdf)
